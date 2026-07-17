@@ -1,0 +1,11 @@
+experiment,target,distance,result_type,mediterranean_aegean_total,north_east_europe_total,northern_italian_total,natufian,ehg,status,notes
+1,Expanded_196_target_panel,0.03483360,prehistoric_mixture,,,,7.8,11.0,complete,"Calculator Average row retained but not used as a regional estimate because target counts are unequal"
+1,Italki_Jew_(n=9),0.02403957,prehistoric_mixture,,,,16.2,8.6,complete,"One of 196 targets in the fixed seven-source panel"
+1,Ashkenazi_Jew_(n=1209),0.02922803,prehistoric_mixture,,,,12.8,14.8,matched_context,"Separate pooled run using the same seven-source file; not one of the 196 raw rows"
+1,Southern_Italian_individuals_(n=40),,derived_range,,,,7.57,,derived,"Campania, Calabria, eastern Sicily and western Sicily; observed Natufian range 2.4-12.2"
+2,Ashkenazi_Jew_(n=1209),0.00948576,modern_mixture,86.0,14.0,0.0,,,complete,"Full modern competition"
+3,Ashkenazi_Jew_(n=1209),0.01293736,modern_mixture,99.6,0.0,0.4,,,complete,"Northern/Eastern European sources removed"
+4,Ashkenazi_Jew_(n=1209),,direct_distance,,,,,,diagnostic_only,"See results/raw/04_proxy_test_distance_diagnostic.csv"
+5,Ashkenazi_Jew_(n=1209),0.01143262,modern_mixture,93.6,6.4,0.0,,,complete,"Italki Jews omitted"
+6,Italki_Jew_(n=9),0.01732664,modern_mixture,100.0,0.0,0.0,,,complete,"Reciprocal Italian Jewish target"
+7,Regional_Ashkenazi_targets,0.01186611,modern_mixture,89.5,10.6,0.0,,,complete,"Ten regional targets; values are the calculator Average row and grouped totals differ by 0.1 from 100 because of display rounding"

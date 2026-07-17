@@ -1,0 +1,13 @@
+rank,population,fst_distance,standard_error
+1,Cretan.DG,0.0049,0.00124
+2,Italian_South.HO,0.0049,0.00033
+3,Sicilian.HO,0.0052,0.00041
+4,Greek.HO,0.0055,0.00035
+5,Maltese.HO,0.0066,0.00045
+6,Jew_Moroccan.HO,0.0091,0.00058
+7,Jew_Iraqi.DG,0.0122,0.00138
+8,Jew_Iranian.HO,0.0125,0.0005
+9,Jew_Tunisian.HO,0.0127,0.00056
+10,Jew_Libyan.HO,0.0132,0.00053
+11,Jew_Georgian.HO,0.0133,0.00056
+12,Jew_Yemenite.HO,0.0174,0.00054

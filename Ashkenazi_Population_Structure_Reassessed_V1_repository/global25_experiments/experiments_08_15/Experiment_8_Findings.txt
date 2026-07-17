@@ -1,0 +1,79 @@
+EXPERIMENT 8 — ANCIENT LEVANT NATUFIAN CONTROLLED PANEL
+
+Purpose
+
+Experiment 8 directly compares ancient and modern Levantine population averages with Italki Jews, Ashkenazi Jews, Southern Italians, Maltese, and Aegean Greeks under the same prehistoric source panel and calculator settings. The central question is whether the Italki and Ashkenazi component structure resembles the tested ancient Levantine profiles or instead aligns more closely with the central Mediterranean comparison populations.
+
+The answer in this experiment is a clear separation. Three major component differences jointly distinguish the Levantine rows from the Italki–Ashkenazi–central Mediterranean rows. These are not peripheral observations. They are the main result of Experiment 8.
+
+MAJOR DIFFERENCE 1: Russia_Karelia_Mesolithic_(EHG)_(n=15)
+
+Russia_Karelia_Mesolithic_(EHG)_(n=15) is completely absent at 0.0 in every ancient Levantine target included in the experiment. It is also 0.0 in Samaritans, Palestinian Arab Christians, and Lebanese Arab Christians. The only modern Levantine exception is Druze Israel at a trace 1.6.
+
+Against that near-total Levantine absence, Italki Jews score 8.6 and Ashkenazi Jews score 14.8. The same component is substantial throughout the central Mediterranean controls: Apulia 14.8, Basilicata 13.6, Calabria 9.8, Campania 12.6, western Sicily 13.2, Malta 13.6, Crete 11.4, Rhodes 5.8, and Mani 11.4.
+
+This is a stark categorical separation, not a slight shift. The Italki result is especially important because Italki Jews cannot plausibly receive this shared component pattern from later Ashkenazi residence in the Rhineland or Eastern Europe. The component is already present in an Italian Jewish population and occurs alongside the same broader central Mediterranean pattern found in Southern Italians, Maltese, and Aegean Greeks. Within the tested panel, the result therefore points to a pre-Rhineland central Mediterranean source rather than to an ancient Levantine source.
+
+MAJOR DIFFERENCE 2: Iran_N_Ganj_Dareh_(n=7)
+
+Iran_N_Ganj_Dareh_(n=7) creates a second major separation. Ashkenazi Jews score 9.8 and Italki Jews score 11.4. These values sit with the central Mediterranean controls: Apulia 7.0, Basilicata 7.6, Calabria 9.0, Campania 8.8, western Sicily 8.4, Malta 8.8, Crete 10.2, Rhodes 13.4, and Mani 8.8.
+
+Most Bronze Age, Iron Age, and modern Levantine rows are much higher, generally between 16.0 and 25.2. The modern Levantine controls are tightly elevated: Samaritans 21.4, Druze Israel 21.4, Palestinian Arab Christians 21.0, and Lebanese Arab Christians 21.4. The principal early exception is Israel Chalcolithic Peki'in at 8.0, but that sample simultaneously has 44.8 Natufian and 0.0 Russia_Karelia_Mesolithic, so it does not reproduce the Italki or Ashkenazi profile.
+
+The important finding is therefore not merely that Ashkenazi and Italki values are lower. Their Iran_N_Ganj_Dareh values occupy the same range as Southern Italians, Maltese, and most Aegean Greeks while the later ancient and modern Levantine references form a distinctly higher cluster.
+
+MAJOR DIFFERENCE 3: Turkey_Anatolia_N_Ceramic_Barcin_(n=22)
+
+Turkey_Anatolia_N_Ceramic_Barcin_(n=22) creates a third major separation. Italki Jews score 53.2 and Ashkenazi Jews score 51.2. Southern Italian and Aegean controls are still higher but form the same Anatolia_N-rich side of the table: Southern Italians range from 57.2 to 60.2, Malta is 56.0, and the Aegean Greeks range from 56.4 to 60.0.
+
+The ancient Levantine targets range from 28.6 to 47.2, with most Bronze and Iron Age values in the 30s or low 40s. The modern Levantine controls range from 39.2 to 44.0. Italki and Ashkenazi Jews therefore sit substantially above the tested Levantine populations and toward the Southern Italian–Maltese–Aegean cluster.
+
+Taken together, Russia_Karelia_Mesolithic, Iran_N_Ganj_Dareh, and Turkey_Anatolia_N_Ceramic_Barcin produce a three-part structural division. The Italki–Ashkenazi side has substantial Russia_Karelia_Mesolithic, lower Iran_N_Ganj_Dareh, and higher Turkey_Anatolia_N_Ceramic_Barcin. The ancient and modern Levantine side has virtually no Russia_Karelia_Mesolithic, markedly higher Iran_N_Ganj_Dareh, and lower Turkey_Anatolia_N_Ceramic_Barcin.
+
+OTHER IMPORTANT COMPONENT DIFFERENCES
+
+Israel_Epipaleolithic_Natufian_(n=2)
+
+Natufian remains an important differentiator. Italki Jews score 16.2 and Ashkenazi Jews 12.8. These values are higher than most Southern Italian and Aegean controls, which generally fall between 5.0 and 9.8, but far below most ancient and modern Levantine values. The ancient Levantine rows range from 25.0 to 48.6 except for no comparable low outlier; the modern Levantine controls range from 20.8 to 30.8.
+
+This places Italki and Ashkenazi Jews between the central Mediterranean and Levantine controls for Natufian, while the other three major components place them decisively on the central Mediterranean side. The combined pattern is therefore consistent with retained Levant-related ancestry embedded within a predominantly central Mediterranean component structure, rather than with continuity from the tested ancient Levantine profiles.
+
+Georgia_Mesolithic_Trialetian_Kotias_Klde_(CHG)_(n=1)
+
+CHG alone does not provide the same clean separation because values overlap. Italki Jews score 10.2 and Ashkenazi Jews 11.4. Southern Italian values range from 11.8 to 13.6, while Aegean values range from 13.4 to 15.0. Ancient and modern Levantines span a wide range from 0.0 to 15.0. CHG therefore contributes context but is not the principal discriminator in this experiment.
+
+Morocco_UP_Iberomaurusian_Taforalt_(n=6)
+
+Taforalt is zero throughout the ancient and modern Levantine references and is also zero in Ashkenazi Jews and most Southern Italian and Aegean controls. It appears only as 0.4 in Italki Jews, 0.6 in Calabria, and 2.8 in Malta. These small values do not drive the main separation.
+
+ITALKI AND ASHKENAZI INTERNAL DIFFERENCES
+
+Italki Jews and Ashkenazi Jews are not identical. Ashkenazi Jews have 6.2 points more Russia_Karelia_Mesolithic than Italki Jews, while Italki Jews have 3.4 points more Natufian and 2.0 points more Turkey_Anatolia_N_Ceramic_Barcin. Italki Jews also have 1.6 points more Iran_N_Ganj_Dareh, whereas Ashkenazi Jews have 1.2 points more CHG.
+
+These differences can be described as a shift within the same broad Mediterranean structure: Ashkenazi Jews are more Russia_Karelia_Mesolithic-rich and slightly less Natufian- and Anatolia_N-rich than Italki Jews. They do not erase the much larger shared separation of both Jewish populations from the ancient and modern Levantine controls.
+
+SUBTLE REGIONAL DIFFERENCES WITHIN THE CENTRAL MEDITERRANEAN CONTROLS
+
+The Southern Italian and Aegean populations form a related but internally varied comparison field. Apulia and Basilicata show the highest Russia_Karelia_Mesolithic values, 14.8 and 13.6, together with the lowest Natufian values, 5.0 and 5.8. Calabria is more eastern Mediterranean in this panel, with 9.8 Natufian, 9.0 Iran_N_Ganj_Dareh, and 9.8 Russia_Karelia_Mesolithic. Western Sicily, Campania, and Malta occupy intermediate combinations.
+
+Rhodes is distinctive among the Aegean controls because it has the lowest Russia_Karelia_Mesolithic value at 5.8 and the highest Iran_N_Ganj_Dareh value at 13.4, while Crete and Mani have 11.4 Russia_Karelia_Mesolithic and lower Iran_N_Ganj_Dareh values. These internal differences show that the central Mediterranean comparison set is not homogeneous. Even so, every Southern Italian, Maltese, and Aegean control has far more Russia_Karelia_Mesolithic than every ancient Levantine row, and nearly all have the lower Iran_N_Ganj_Dareh and higher Turkey_Anatolia_N_Ceramic_Barcin balance that characterizes the Italki and Ashkenazi profiles.
+
+DISTANCES AND MODEL FIT
+
+The best distances in the table include Calabria at 0.02168291, Italki Jews at 0.02403957, western Sicily at 0.02461343, Campania at 0.02565262, Druze Israel at 0.02587741, Rhodes at 0.02602348, Malta at 0.02603547, and Basilicata at 0.02637740. Ashkenazi Jews have a distance of 0.02922803. These fits are descriptive diagnostics for this source panel. They do not convert the coefficients into literal historical ancestry percentages, but the acceptable and broadly comparable distances show that the component contrasts are not produced only by one obviously failed target model.
+
+CORE INTERPRETATION
+
+Experiment 8 produces a clear separation between the tested Levantine populations and the Italki–Ashkenazi–central Mediterranean populations. The three major differences must be stated together:
+
+1. Russia_Karelia_Mesolithic_(EHG)_(n=15) is completely absent in every ancient Levantine row and effectively absent in the modern Levantine controls, but substantial in Italki Jews, Ashkenazi Jews, Southern Italians, Maltese, and Aegean Greeks.
+
+2. Iran_N_Ganj_Dareh_(n=7) is much lower in Italki and Ashkenazi Jews and falls in the Southern Italian–Maltese–Aegean range, whereas most later ancient and modern Levantine rows are markedly higher.
+
+3. Turkey_Anatolia_N_Ceramic_Barcin_(n=22) is much higher in Italki and Ashkenazi Jews than in the tested ancient and modern Levantines and moves them toward the Southern Italian–Maltese–Aegean cluster.
+
+The Italki result is the critical control. Because Italki Jews did not acquire this profile from later Rhineland or Eastern European residence, and because the tested ancient Levantine populations do not reproduce it, the strongest remaining source region represented in this experiment is the Southern Italian–Aegean central Mediterranean sphere. The Natufian elevation in Italki and Ashkenazi Jews indicates a retained Levant-related layer, but it does not override the three major structural differences that separate both populations from the tested ancient Levantine profiles.
+
+Scope statement
+
+These findings apply to this declared Global25 source panel and its population averages. They are descriptive model results, not formal qpAdm proof, direct admixture dates, or literal percentages of descent. Within those limits, the separation is strong, repeated across multiple components, and historically relevant to a Southern Italian and Aegean formation model for Italki and Ashkenazi Jews.

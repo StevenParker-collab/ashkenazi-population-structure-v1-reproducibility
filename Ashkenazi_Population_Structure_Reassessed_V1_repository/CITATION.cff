@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and this Version 1 reproducibility package."
+title: "Ashkenazi Population Structure Reassessed: Version 1 Reproducibility Package"
+type: dataset
+authors:
+  - family-names: Parker
+    given-names: Steven
+version: 1.0.0
+date-released: 2026-07-17
+keywords:
+  - population genetics
+  - Ashkenazi Jews
+  - Global25
+  - reference-panel sensitivity
+  - Southern Italy
+  - Italian Jews
+preferred-citation:
+  type: article
+  title: "Ashkenazi Population Structure Reassessed: Reference-Panel Sensitivity and the Europe-Levant Cline"
+  authors:
+    - family-names: Parker
+      given-names: Steven
+  year: 2026

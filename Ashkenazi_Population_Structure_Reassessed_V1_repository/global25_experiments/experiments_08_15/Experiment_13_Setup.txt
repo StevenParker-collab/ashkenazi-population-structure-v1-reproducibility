@@ -1,0 +1,54 @@
+EXPERIMENT 13 — ITALKI RECIPROCAL FALSIFICATION TEST
+
+Purpose
+
+Italki Jews are reversed into the target position. Ashkenazi Jews are not
+included as a source. The test asks whether a Jewish population that remained
+in Italy independently resolves through Southern Italian, Sicilian, Maltese,
+and Aegean source space, rather than requiring Northern or Eastern European
+sources to create that placement.
+
+Calculator settings visible in the supplied screenshot
+
+CYCLES - 0.25X
+ADD DIST COL - NO
+PRINT ZEROES - NO
+FAST MODE - NO
+AGGREGATE - YES
+
+Target
+
+Italki_Jew_(n=9)
+
+Source panel
+
+Italian_Apulia_(Apulian)_(n=228)
+Italian_Calabria_Reggio_Calabria_(Calabrese)_(n=9)
+Italian_Campania_(Campanian)_(n=14)
+Italian_Sicily_West_(Sicilian)_(n=8)
+Maltese_(n=8)
+Greek_Crete_Heraklion_(n=93)
+Greek_Dodecanese_Rhodes_(n=15)
+Greek_Peloponnese_Laconia_Mani_(n=22)
+Samaritan_(n=7)
+Druze_Israel_(n=42)
+Palestinian_Arab_Christian_(n=24)
+Lebanese_Arab_Christian_(n=27)
+Italian_Tuscany_(Tuscan)_(n=138)
+Italian_Lombardy_(Lombard)_(n=10)
+German_(n=113)
+Polish_(n=68)
+Russian_Smolensk_(n=15)
+
+Displayed distance
+
+0.00984550
+
+Displayed nonzero sources
+
+Italian_Calabria_Reggio_Calabria_(Calabrese)_(n=9): 28.8
+Italian_Lombardy_(Lombard)_(n=10): 4.2
+Italian_Sicily_West_(Sicilian)_(n=8): 2.0
+Maltese_(n=8): 39.8
+Palestinian_Arab_Christian_(n=24): 1.8
+Samaritan_(n=7): 23.4

@@ -1,0 +1,15 @@
+target,reddit_natufian_percent,controlled_natufian_percent,controlled_minus_reddit_points,direction
+Sicilian_East:EastSicilian2H,6.6,6.6,0.0,unchanged
+Sicilian_East:EastSicilian5H,9.8,10.6,0.8,higher in controlled run
+Sicilian_East:EastSicilian8H,9.8,10.2,0.4,higher in controlled run
+Sicilian_West:WestSicilian10H,6.4,6.4,0.0,unchanged
+Sicilian_West:WestSicilian4H,7.2,12.2,5.0,higher in controlled run
+Sicilian_West:WestSicilian7H,6.0,10.2,4.2,higher in controlled run
+Italian_Calabria:ALP129,6.8,8.0,1.2,higher in controlled run
+Italian_Calabria:ALP582,5.8,7.4,1.6,higher in controlled run
+Italian_Calabria:ALP596,8.2,8.8,0.6,higher in controlled run
+Italian_Calabria:ALP597,7.6,7.8,0.2,higher in controlled run
+Italian_Calabria:BEL57,4.6,6.8,2.2,higher in controlled run
+Italian_Calabria:PG2012_398,5.8,7.8,2.0,higher in controlled run
+Italian_Calabria:PG2012_424,6.0,6.2,0.2,higher in controlled run
+Italian_Calabria:PG2012_699,8.0,8.4,0.4,higher in controlled run

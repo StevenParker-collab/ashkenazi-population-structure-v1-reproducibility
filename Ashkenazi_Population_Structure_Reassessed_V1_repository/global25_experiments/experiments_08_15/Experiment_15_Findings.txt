@@ -1,0 +1,245 @@
+EXPERIMENT 15 — IRON AGE SOUTHERN LEVANT CONTINUITY MODEL
+
+Purpose
+
+Three Iron Age coastal southern-Levantine population averages are modeled
+against pre-Iron-Age Levantine site-period averages together with transparent
+Mycenaean and Anatolian Bronze Age composite averages.
+
+The composites are unweighted means of all predeclared qualifying site
+averages. They are population-level composites, not selected individuals.
+
+The experiment is a validation test. It asks whether the same constrained
+framework used elsewhere in the repository can recover strong Bronze Age
+southern-Levantine continuity when genuine Iron Age southern-Levantine targets
+are supplied.
+
+Displayed results
+
+Israel_IAII_Philistine_Ashkelon_(n=3)
+Distance: 0.02428549
+Pre-Iron-Age southern Levant: 100.0
+Mycenaean composite: 0.0
+Anatolian EBA composite: 0.0
+
+Israel_IAII_Phoenician-Achaemenid_Achziv_(n=4)
+Distance: 0.01754960
+Pre-Iron-Age southern Levant: 95.4
+Mycenaean composite: 4.6
+Anatolian EBA composite: 0.0
+
+Lebanon_IAIII_Beirut_(n=8)
+Distance: 0.01231731
+Pre-Iron-Age southern Levant: 74.0
+Mycenaean composite: 17.2
+Anatolian EBA composite: 8.8
+
+Unweighted target average
+
+Distance: 0.01805080
+Pre-Iron-Age southern Levant: 89.8
+Mycenaean composite: 7.3
+Anatolian EBA composite: 2.9
+Combined external composite signal: 10.2
+
+Averaging the three target-level continuity totals gives 89.8. Summing the
+separately rounded Levantine components in the displayed Average row gives
+89.9. The 0.1-point difference is caused by rounding.
+
+Major finding 1: the model recovers overwhelming Bronze Age southern-Levantine
+continuity
+
+Across the three Iron Age targets, the average assigned to pre-Iron-Age
+southern-Levantine site-period sources is 89.8.
+
+The target-specific continuity totals are:
+
+Philistine Ashkelon: 100.0
+Phoenician-Achaemenid Achziv: 95.4
+Iron Age Beirut: 74.0
+
+This is the central validation result. When actual Iron Age southern-Levantine
+population averages are modeled, the framework overwhelmingly returns earlier
+southern-Levantine populations.
+
+Major finding 2: the Philistine Ashkelon target is modeled entirely through
+earlier Levantine sources in this panel
+
+Israel_IAII_Philistine_Ashkelon_(n=3) receives:
+
+Jordan_LBA_Baq'ah_(n=8): 52.4
+Lebanon_MBA_Sidon_Canaanite_(n=5): 22.8
+Israel_LBA_Megiddo_(n=8): 18.2
+Israel_MBA_Megiddo_(n=7): 6.6
+
+Combined: 100.0
+
+Both the Mycenaean and Anatolian composites are 0.0.
+
+This result is particularly important because the target label is Philistine.
+The calculator does not mechanically assign a Mycenaean coefficient merely
+because a historically Aegean-associated label is present. It models the
+population average according to its full coordinate structure.
+
+Major finding 3: Achziv is also overwhelmingly continuous with the Bronze Age
+Levant
+
+Israel_IAII_Phoenician-Achaemenid_Achziv_(n=4) receives:
+
+Lebanon_MBA_Sidon_Canaanite_(n=5): 35.8
+Israel_LBA_Megiddo_(n=8): 30.2
+Israel_MBA_Megiddo_(n=7): 29.4
+Mycenaean composite: 4.6
+
+The pre-Iron-Age southern-Levantine total is 95.4.
+
+The Mycenaean coefficient is small and secondary. The result therefore
+identifies very strong local continuity rather than a predominantly external
+Aegean replacement.
+
+Major finding 4: Beirut retains a strong Levantine majority while showing the
+largest external composite signal
+
+Lebanon_IAIII_Beirut_(n=8) receives:
+
+Lebanon_MBA_Sidon_Canaanite_(n=5): 57.4
+Israel_LBA_Megiddo_(n=8): 16.0
+Israel_MBA_Megiddo_(n=7): 0.6
+Mycenaean composite: 17.2
+Anatolian EBA composite: 8.8
+
+The pre-Iron-Age southern-Levantine total is 74.0.
+The combined Mycenaean and Anatolian composite total is 26.0.
+
+Beirut therefore shows the greatest external eastern Mediterranean shift in
+the three-target panel, but the dominant structure remains local Levantine
+continuity.
+
+Major finding 5: Sidon Canaanite is the most persistent and largest average
+source
+
+Lebanon_MBA_Sidon_Canaanite_(n=5) is retained in all three targets:
+
+Philistine Ashkelon: 22.8
+Achziv: 35.8
+Beirut: 57.4
+
+Displayed average: 38.7
+
+It is the largest average individual source in the experiment. Its progressive
+increase from Ashkelon to Achziv to Beirut also follows the northern coastal
+geography of the targets, although this geographical pattern should be treated
+as descriptive rather than as a formal test.
+
+Major finding 6: local Levantine source allocation varies by target while
+regional continuity remains stable
+
+Philistine Ashkelon is anchored most strongly by Jordan_LBA_Baq'ah at 52.4.
+
+Achziv distributes its continuity across Sidon, LBA Megiddo, and MBA Megiddo.
+
+Beirut is anchored primarily by Sidon at 57.4.
+
+The exact source coefficients change, but the regional category does not:
+all three targets remain primarily or entirely pre-Iron-Age southern
+Levantine.
+
+This demonstrates why category-level continuity is more informative than
+treating one archaeological site average as a literal historical ancestor.
+
+Major finding 7: the Mycenaean and Anatolian composites behave selectively,
+not indiscriminately
+
+The Mycenaean composite is:
+
+0.0 in Philistine Ashkelon
+4.6 in Achziv
+17.2 in Beirut
+
+The Anatolian EBA composite is:
+
+0.0 in Philistine Ashkelon
+0.0 in Achziv
+8.8 in Beirut
+
+The composites are therefore not being forced into every target. They appear
+only where they improve the fit and remain secondary to Levantine continuity.
+
+This selectivity supports the use of the panel as a methodological control.
+
+Major finding 8: fit quality varies across the three targets
+
+Distances are:
+
+Beirut: 0.01231731
+Achziv: 0.01754960
+Philistine Ashkelon: 0.02428549
+
+Beirut has the closest fit and Philistine Ashkelon the weakest fit.
+
+The weaker Ashkelon fit means the 100.0 Levantine allocation should not be read
+as proof that no ancestry associated with Aegean migration ever existed.
+Rather, within this exact population-average panel, the target is represented
+most economically by the available Bronze Age Levantine sources.
+
+Major finding 9: the experiment validates the framework before later Jewish
+targets are interpreted
+
+The repository argues that source choice matters. Experiment 15 demonstrates
+that the calculator can recover strong local continuity when the appropriate
+earlier regional references are available.
+
+For genuine Iron Age southern-Levantine targets, the model returns:
+
+89.8 average Bronze Age southern-Levantine continuity;
+7.3 average Mycenaean composite;
+2.9 average Anatolian EBA composite.
+
+The method therefore does not automatically manufacture a central
+Mediterranean result for every eastern Mediterranean population. It recognizes
+southern-Levantine continuity when that is the dominant structure.
+
+Major finding 10: Experiment 15 strengthens the interpretation of the Jewish
+comparisons by providing a positive continuity control
+
+In earlier experiments, Italki and Ashkenazi populations do not reproduce the
+same structure as the ancient Levantine targets. Experiment 15 shows what a
+clear continuity result looks like under the same general modeling framework:
+the earlier regional sources dominate, external composites remain secondary,
+and the continuity pattern is visible across multiple targets.
+
+That contrast supports the interpretation that the central Mediterranean
+signals observed in Italki and Ashkenazi Jews are not simply artifacts of the
+calculator's inability to recognize Levantine continuity.
+
+Conclusion
+
+Experiment 15 successfully recovers Bronze Age southern-Levantine continuity
+in all three Iron Age coastal targets.
+
+The unweighted average model is:
+
+89.8 pre-Iron-Age southern Levant;
+7.3 Mycenaean composite;
+2.9 Anatolian EBA composite.
+
+Philistine Ashkelon is modeled as 100.0 earlier Levantine in this panel.
+Achziv is 95.4 earlier Levantine.
+Beirut is 74.0 earlier Levantine with a 26.0 external eastern Mediterranean
+composite signal.
+
+The experiment therefore functions as a strong positive control: the framework
+can identify local southern-Levantine continuity when it is present.
+
+Methodological caution
+
+These are constrained similarity coefficients, not exact historical ancestry
+percentages. Archaeological population averages and composite averages are
+proxies, and correlated Levantine sources can substitute for one another.
+
+The Mycenaean and Anatolian composites are unweighted averages of qualifying
+site averages. Their coefficients should not be interpreted as direct
+genealogical percentages from one named civilization.
+
+The strongest inference is the category-level result across all three targets:
+pre-Iron-Age southern-Levantine sources overwhelmingly dominate the models.

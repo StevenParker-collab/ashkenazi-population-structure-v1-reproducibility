@@ -1,0 +1,35 @@
+EXPERIMENT 15 — IRON AGE SOUTHERN LEVANT CONTINUITY MODEL
+
+Purpose
+
+Three Iron Age coastal southern-Levantine population averages are modeled
+against pre-Iron-Age Levantine site-period averages plus transparent Mycenaean
+and Anatolian Bronze Age composite averages.
+
+Composite construction
+
+Composite_Greece_LBA_Mycenaean_7_site_averages is an unweighted mean of seven
+predeclared qualifying site averages.
+
+Composite_Turkey_Anatolia_EBA_4_site_averages is an unweighted mean of four
+predeclared qualifying site averages.
+
+The composites are not selected individuals.
+
+Calculator settings visible in the supplied screenshot
+
+CYCLES - 0.25X
+ADD DIST COL - NO
+PRINT ZEROES - NO
+FAST MODE - NO
+AGGREGATE - YES
+
+Targets
+
+Israel_IAII_Philistine_Ashkelon_(n=3)
+Israel_IAII_Phoenician-Achaemenid_Achziv_(n=4)
+Lebanon_IAIII_Beirut_(n=8)
+
+Displayed average distance
+
+0.01805080

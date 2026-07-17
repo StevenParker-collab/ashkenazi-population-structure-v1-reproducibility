@@ -1,0 +1,12 @@
+Cretan.DG
+Italian_South.HO
+Sicilian.HO
+Greek.HO
+Maltese.HO
+Jew_Moroccan.HO
+Jew_Iraqi.DG
+Jew_Iranian.HO
+Jew_Tunisian.HO
+Jew_Libyan.HO
+Jew_Georgian.HO
+Jew_Yemenite.HO

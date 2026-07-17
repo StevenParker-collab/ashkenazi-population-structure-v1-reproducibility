@@ -1,0 +1,4 @@
+population_1,population_2,fst_distance,interpretation
+Italian_South.HO,Maltese.HO,0.0036,Closely related central Mediterranean populations
+Jew_Ashkenazi.HO,Italian_South.HO,0.0049,Strong regional affinity
+IBS_CanaryIslands.DG,Spanish.HO,0.0038,Iberian-derived population with additional North African ancestry

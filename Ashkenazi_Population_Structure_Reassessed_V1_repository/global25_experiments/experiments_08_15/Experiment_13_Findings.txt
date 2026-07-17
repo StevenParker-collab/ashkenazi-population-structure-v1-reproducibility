@@ -1,0 +1,195 @@
+EXPERIMENT 13 — ITALKI RECIPROCAL FALSIFICATION TEST
+
+Purpose
+
+Experiment 13 reverses the direction of the central claim by placing
+Italki_Jew_(n=9) in the target position. Ashkenazi Jews are not allowed to
+serve as a source.
+
+The test therefore asks whether the central Mediterranean placement of an
+Italian Jewish population appears independently of any Ashkenazi, Rhineland,
+German, Polish, or Russian contribution.
+
+Displayed result
+
+Distance: 0.00984550
+
+Retained sources:
+
+Maltese_(n=8): 39.8
+Italian_Calabria_Reggio_Calabria_(Calabrese)_(n=9): 28.8
+Samaritan_(n=7): 23.4
+Italian_Lombardy_(Lombard)_(n=10): 4.2
+Italian_Sicily_West_(Sicilian)_(n=8): 2.0
+Palestinian_Arab_Christian_(n=24): 1.8
+
+Major finding 1: the Italki target resolves predominantly through central
+Mediterranean sources
+
+The strict central Mediterranean block is:
+
+Maltese: 39.8
+Calabria: 28.8
+West Sicily: 2.0
+
+Combined: 70.6
+
+When Lombardy is added as the remaining Italian contribution, the total
+assigned to Italian and central Mediterranean sources reaches
+74.8.
+
+The model therefore places nearly three quarters of the Italki profile on the
+Italian and central Mediterranean side of the competition.
+
+Major finding 2: Maltese and Calabria alone account for most of the model
+
+Maltese and Calabria total:
+
+39.8 + 28.8 = 68.6
+
+These are the two largest retained sources. Their dominance is important
+because the source panel also contains modern Levantine populations,
+Northern/Central Italians, Aegean Greeks, Germans, Poles, and Russians.
+
+The optimizer does not need Northern or Eastern Europeans to create the Italki
+placement. It primarily selects Maltese and Calabrian structure.
+
+Major finding 3: the Levantine-continuity signal is real but secondary
+
+The retained Levantine-continuity block is:
+
+Samaritan: 23.4
+Palestinian Arab Christian: 1.8
+
+Combined: 25.2
+
+The strict central Mediterranean block of 70.6 is
+approximately 2.80 times the retained Levantine-continuity block.
+
+This supports a profile with substantial Levantine continuity embedded inside
+a predominantly Italian and central Mediterranean structure. It does not
+support describing the Italki target as a primarily Levantine population that
+requires later Northern or Eastern European admixture to reach its present
+position.
+
+Major finding 4: Northern and Eastern European sources are not retained
+
+German_(n=113): 0.0
+Polish_(n=68): 0.0
+Russian_Smolensk_(n=15): 0.0
+
+All three Northern/Eastern European competitors are absent from the displayed
+nonzero solution.
+
+This is the core reciprocal falsification result. Italki Jews remained in
+Italy and cannot owe their central Mediterranean placement to Ashkenazi
+admixture acquired in the Rhineland or Eastern Europe. In this experiment,
+that placement is reproduced independently through Maltese, Calabrian,
+Sicilian, and Italian sources, together with a secondary Levantine-continuity
+component.
+
+Major finding 5: the result provides an independent control for the Ashkenazi
+experiments
+
+Experiments 10–12 show that Ashkenazi Jews are modeled most efficiently when
+Italki and central Mediterranean sources are available, and that removing
+those sources worsens the fit and inflates Northern Italian and Levantine
+proxies.
+
+Experiment 13 approaches the problem from the opposite direction. It tests the
+Italian Jewish population itself without using Ashkenazi Jews as a source.
+
+The Italki result independently reproduces the same broad structure:
+
+1. a dominant central Mediterranean and Italian block;
+2. a substantial but secondary Levantine-continuity block; and
+3. no retained Northern or Eastern European source.
+
+That convergence makes it difficult to explain the Ashkenazi–Italki affinity
+as a product of later Rhineland or Eastern European history.
+
+Major finding 6: Calabria is the dominant Southern Italian source
+
+Calabria contributes 28.8, while West Sicily contributes 2.0. Apulia and
+Campania receive zero in the displayed solution.
+
+This does not show that Calabria was the only Southern Italian historical
+source. The Southern Italian references are correlated and compete for the
+same dimensions. In this panel, Calabria is the Southern Italian population
+that most efficiently represents the relevant portion of the Italki target.
+
+The key regional result is not that one modern province is uniquely ancestral.
+It is that a Southern Italian source survives strongly and becomes the
+second-largest coefficient in a broad competition.
+
+Major finding 7: Maltese likely absorbs overlapping Sicilian, Southern
+Italian, and eastern Mediterranean structure
+
+Maltese is the largest source at 39.8, while West Sicily receives only 2.0 and
+the Aegean sources receive zero.
+
+Because Maltese, Sicilian, Southern Italian, and Aegean populations share
+substantial central Mediterranean ancestry, the coefficients are not
+independent historical percentages. Maltese can absorb dimensions that might
+be distributed across several related populations in another panel.
+
+The result should therefore be read regionally: the dominant signal belongs
+to the central Mediterranean source space, not necessarily to one literal
+modern Maltese ancestral population.
+
+Major finding 8: Aegean zeros do not negate Greco-Roman affinity
+
+Crete, Rhodes, and Mani receive zero in the displayed nonzero solution.
+These zeros occur while genetically overlapping Maltese and Calabrian sources
+receive 68.6 combined.
+
+In a constrained competition model, correlated sources can substitute for one
+another. The Aegean zeros mean that Maltese and Calabria represent the target
+more efficiently in this exact panel. They do not establish the historical
+absence of Aegean or Greco-Roman ancestry.
+
+Major finding 9: the small Lombardy coefficient does not make the profile
+Northern Italian
+
+Lombardy contributes only 4.2. Tuscany receives zero.
+
+This is sharply different from Experiment 12, where Lombardy inflated to 38.0
+only after Italki and the broader central Mediterranean source space were
+removed. With appropriate Southern Italian, Sicilian, Maltese, and Aegean
+comparators restored in Experiment 13, Lombardy falls to a minor role.
+
+This contrast reinforces the source-omission argument: Northern Italian
+coefficients can become artificially large when the relevant central
+Mediterranean comparators are unavailable.
+
+Conclusion
+
+Experiment 13 is a strong reciprocal falsification test.
+
+The Italki Jewish target is modeled as:
+
+70.6 strict central Mediterranean;
+74.8 Italian plus central Mediterranean when Lombardy is
+included;
+25.2 Levantine continuity; and
+0.0 Northern/Eastern European in the displayed solution.
+
+The result demonstrates that the central Mediterranean placement shared by
+Italki and Ashkenazi Jews exists independently in an Italian Jewish population
+that did not require Rhineland or Eastern European admixture to acquire it.
+
+Within this model, the most economical interpretation is an Italian Jewish and
+central Mediterranean foundation with a substantial secondary
+Levantine-continuity component.
+
+Methodological caution
+
+The displayed values are constrained similarity coefficients, not exact
+historical ancestry percentages. Modern populations are proxies, and closely
+related Southern Italian, Sicilian, Maltese, and Aegean sources can replace one
+another.
+
+The strongest inference is the reciprocal design itself: Ashkenazi Jews are
+excluded as a source, Northern/Eastern European populations are allowed to
+compete, none is retained, and the Italki target independently resolves
+primarily through Italian and central Mediterranean source space.

@@ -1,0 +1,4 @@
+Experiment	Panel	Distance	Absolute_change_vs_10	Relative_change_vs_10_percent	Absolute_change_vs_11	Relative_change_vs_11_percent
+10	Full modern competition with Italki and central Mediterranean sources	0.00819655	0.00000000	0.00	-0.00102357	-11.10
+11	Same panel with Italki omitted	0.00922012	0.00102357	12.49	0.00000000	0.00
+12	Italki, Southern Italian, Sicilian, Maltese, and Aegean sources omitted	0.01206331	0.00386676	47.17	0.00284319	30.84

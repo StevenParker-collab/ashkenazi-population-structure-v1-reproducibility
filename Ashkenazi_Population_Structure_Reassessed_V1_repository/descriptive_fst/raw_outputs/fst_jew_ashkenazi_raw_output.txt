@@ -1,0 +1,40 @@
+Starting fst analysis
+Target population is being processed: Jew_Ashkenazi.HO
+Dataset: Human Origins v62.0
+Platform: IllustrativeDNA Admix Lab
+Setting: Adjust Pseudohaploids = NO
+
+Reading allele frequencies from packedancestrymap files...
+HO.geno has 21945 samples and 584131 SNPs
+Calculating allele frequencies from 118 samples in 13 populations
+Expected size of allele frequency data: 126 MB
+SNP reading progress reported in the web output from 0k through 466k SNPs.
+
+Selected comparator set:
+Sicilian.HO
+Italian_South.HO
+Maltese.HO
+Cretan.DG
+Jew_Iranian.HO
+Jew_Iraqi.DG
+Jew_Tunisian.HO
+Jew_Yemenite.HO
+Jew_Georgian.HO
+Jew_Moroccan.HO
+Jew_Libyan.HO
+Greek.HO
+
+Genetic Distances to: Jew_Ashkenazi.HO
+rank,population,fst_distance,standard_error
+0,Cretan.DG,0.0049,0.00124
+1,Italian_South.HO,0.0049,0.00033
+2,Sicilian.HO,0.0052,0.00041
+3,Greek.HO,0.0055,0.00035
+4,Maltese.HO,0.0066,0.00045
+5,Jew_Moroccan.HO,0.0091,0.00058
+6,Jew_Iraqi.DG,0.0122,0.00138
+7,Jew_Iranian.HO,0.0125,0.00050
+8,Jew_Tunisian.HO,0.0127,0.00056
+9,Jew_Libyan.HO,0.0132,0.00053
+10,Jew_Georgian.HO,0.0133,0.00056
+11,Jew_Yemenite.HO,0.0174,0.00054
