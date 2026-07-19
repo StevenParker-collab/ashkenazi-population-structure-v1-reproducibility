@@ -1,0 +1,66 @@
+Stage 07 ADMIXTURE analysis summary
+
+Completed UTC: 2026-07-18T17:55:39.871619+00:00
+Elapsed seconds for this invocation: 5107.3
+ADMIXTURE executable: /home/computer/popgen/projects/ashkenazi_reference_test/tools/admixture_linux-1.4.0/admixture
+K range: 2-12
+Replicates per panel per K: 5
+Cross-validation folds: 10
+Threads per ADMIXTURE run: 8
+Matched LD-pruned SNPs: 70,530
+
+Methodological safeguards:
+  Identical BIM/SNP content validated across primary and strict panels.
+  Deterministic replicate seeds used for every panel-K-replicate combination.
+  All runs used cross-validation and are individually resumable.
+  Components were aligned before replicate or cross-panel comparisons.
+  Consensus Q matrices average aligned replicates; no raw color labels were compared.
+
+primary
+-------
+Lowest mean CV K: 12 (mean=0.46263400, sd=0.00200846)
+Three lowest-CV K values: 12, 11, 10
+Nearest Ashkenazi population-mean Q profiles at K=12:
+  1. Maltese: distance=0.02402958
+  2. Sicilian: distance=0.04993568
+  3. Italian_South: distance=0.06357006
+  4. Jew_Turkish: distance=0.06590921
+  5. Cypriot: distance=0.09712523
+  6. Greek: distance=0.12309958
+  7. Italian_Central: distance=0.12981502
+  8. Lebanese_Christian: distance=0.17933667
+  9. Lebanese_Muslim: distance=0.20782846
+  10. Italian_North: distance=0.21517046
+
+strict_pass
+-----------
+Lowest mean CV K: 2 (mean=0.48335200, sd=0.00001483)
+Three lowest-CV K values: 2, 3, 4
+Nearest Ashkenazi population-mean Q profiles at K=2:
+  1. Maltese: distance=0.02451365
+  2. Sicilian: distance=0.07140443
+  3. Italian_South: distance=0.12511524
+  4. Jew_Turkish: distance=0.14034383
+  5. Cypriot: distance=0.19920512
+  6. Italian_Central: distance=0.25243674
+  7. Greek: distance=0.28251728
+  8. Italian_Tuscan: distance=0.35548874
+  9. Italian_North: distance=0.38613579
+  10. Lebanese_Christian: distance=0.38745987
+
+Cross-panel aligned component sensitivity by K:
+  K=2: all-population RMSE=0.15935582, Ashkenazi RMSE=0.03496026, mean matched correlation=0.913945
+  K=3: all-population RMSE=0.11542352, Ashkenazi RMSE=0.08079934, mean matched correlation=0.958363
+  K=4: all-population RMSE=0.12936245, Ashkenazi RMSE=0.09346921, mean matched correlation=0.629203
+  K=5: all-population RMSE=0.13610577, Ashkenazi RMSE=0.05422662, mean matched correlation=0.721817
+  K=6: all-population RMSE=0.15042006, Ashkenazi RMSE=0.12048855, mean matched correlation=0.658178
+  K=7: all-population RMSE=0.13627370, Ashkenazi RMSE=0.11214340, mean matched correlation=0.611377
+  K=8: all-population RMSE=0.17153515, Ashkenazi RMSE=0.13998745, mean matched correlation=0.532093
+  K=9: all-population RMSE=0.12930755, Ashkenazi RMSE=0.11507026, mean matched correlation=0.613635
+  K=10: all-population RMSE=0.21480938, Ashkenazi RMSE=0.22064796, mean matched correlation=0.661285
+  K=11: all-population RMSE=0.18025678, Ashkenazi RMSE=0.26191958, mean matched correlation=0.541032
+  K=12: all-population RMSE=0.17357051, Ashkenazi RMSE=0.21698209, mean matched correlation=0.532691
+
+Interpretive limit:
+  ADMIXTURE components are model-based latent clusters, not literal ancient ancestral populations.
+  Comparator proximity in Q space is treated as a sensitivity descriptor and is integrated with PCA and FST rather than used alone.

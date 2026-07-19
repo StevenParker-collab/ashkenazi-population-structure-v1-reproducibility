@@ -1,0 +1,9 @@
+genotypename: v66.p1_compatibility_HO.aadr.patch.PUB.geno
+snpname: v66.p1_compatibility_HO.aadr.patch.PUB.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/manifests/modern_primary_relabel_full.ind
+poplistname: /home/computer/popgen/projects/ashkenazi_reference_test/manifests/modern_primary_poplist.txt
+outputformat: PACKEDANCESTRYMAP
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03_20260718_065623_j1cOZI/modern_primary.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03_20260718_065623_j1cOZI/modern_primary.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03_20260718_065623_j1cOZI/modern_primary.ind
+familynames: NO

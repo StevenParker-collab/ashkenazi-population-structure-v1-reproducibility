@@ -1,0 +1,234 @@
+EXPERIMENT 12 — ASHKENAZI SOUTHERN ITALIAN AND CENTRAL MEDITERRANEAN SOURCES OMITTED
+
+Purpose
+
+This negative-control panel removes Italki, Southern Italian, Sicilian,
+Maltese, and Aegean averages while retaining modern Levantine-continuity,
+Northern/Central Italian, and Northern/Eastern European sources.
+
+The experiment measures two effects caused by excluding the regional source
+space central to the preprint thesis:
+
+1. the deterioration in model fit; and
+2. the proxy redistribution into the remaining source classes.
+
+Displayed result
+
+Distance: 0.01206331
+
+Retained sources
+
+Italian_Lombardy_(Lombard)_(n=10): 38.0
+Druze_Israel_(n=42): 28.8
+Palestinian_Arab_Christian_(n=24): 21.2
+Russian_Smolensk_(n=15): 10.0
+Samaritan_(n=7): 2.0
+
+Major finding 1: removing the central Mediterranean source space produces
+the largest fit penalty in the matched series
+
+Experiment 10, full competition:
+0.00819655
+
+Experiment 11, Italki omitted:
+0.00922012
+
+Experiment 12, Italki plus Southern Italian, Sicilian, Maltese, and Aegean
+sources omitted:
+0.01206331
+
+Relative to Experiment 10, the Experiment 12 distance worsens by
+0.00386676, or 47.18 percent.
+
+Relative to Experiment 11, it worsens by 0.00284319, or
+30.84 percent.
+
+This is a major deterioration. The remaining Levantine, Lombard, and
+Northern/Eastern European sources cannot reproduce the pooled Ashkenazi
+profile nearly as efficiently once the relevant Italian Jewish and central
+Mediterranean source space has been removed.
+
+Major finding 2: Lombardy becomes an inflated Italian proxy
+
+Italian_Lombardy_(Lombard)_(n=10) rises:
+
+Experiment 10: 9.8
+Experiment 11: 14.4
+Experiment 12: 38.0
+
+Relative to Experiment 10, Lombardy gains 28.2 points.
+Relative to Experiment 11, Lombardy gains 23.6 points.
+
+This should not be interpreted as evidence that Ashkenazi Jews are 38 percent
+Lombard. It is a proxy-inflation result caused by omission. Once Italki,
+Southern Italian, Sicilian, Maltese, and Aegean sources are unavailable, the
+optimizer forces a large part of the missing Italian and Mediterranean signal
+into the nearest surviving Italian source.
+
+This directly demonstrates how Northern Italian proxies can become artificially
+prominent when Southern Italian and related central Mediterranean comparators
+are excluded.
+
+Major finding 3: the Levantine-continuity block is also inflated by omission
+
+Experiment 12 Levantine-continuity total:
+
+Druze_Israel_(n=42): 28.8
+Palestinian_Arab_Christian_(n=24): 21.2
+Samaritan_(n=7): 2.0
+
+Combined: 52.0
+
+The corresponding total was:
+
+Experiment 10: 22.8
+Experiment 11: 32.6
+Experiment 12: 52.0
+
+Relative to Experiment 10, the Levantine-continuity block rises by 29.2 points.
+Relative to Experiment 11, it rises by 19.4 points.
+
+This does not mean the target suddenly becomes more Levantine when sources are
+removed. It shows that modern Levantine controls are being forced to absorb
+dimensions that were previously modeled more efficiently by Italki, Maltese,
+Sicilian, Southern Italian, and Aegean populations.
+
+The result is therefore a direct demonstration of source-omission bias:
+excluding the central Mediterranean source space creates an artificially
+enlarged Levantine coefficient.
+
+Major finding 4: Northern and Eastern Europe still do not absorb the missing
+central Mediterranean signal
+
+Experiment 10 Northern/Eastern European total:
+
+Russian_Smolensk_(n=15): 11.0
+German_(n=113): 1.8
+Combined: 12.8
+
+Experiment 12:
+
+Russian_Smolensk_(n=15): 10.0
+German_(n=113): 0.0
+Polish_(n=68): 0.0
+Combined: 10.0
+
+The Northern/Eastern European total falls by 2.8 points relative to Experiment
+10. It rises only 0.6 points relative to Experiment 11.
+
+Thus, even after all Italki, Southern Italian, Sicilian, Maltese, and Aegean
+sources are removed, the missing signal does not move into Germany, Poland, or
+Russia. It moves overwhelmingly into Lombardy and the modern Levantine controls.
+
+Major finding 5: the Experiment 10 central Mediterranean block is redistributed
+exactly into Lombardy and Levantine proxy inflation
+
+Experiment 10 assigned:
+
+Italki_Jew_(n=9): 40.8
+Maltese_(n=8): 11.4
+Italian_Sicily_West_(Sicilian)_(n=8): 2.4
+
+Combined central Mediterranean block: 54.6
+
+From Experiment 10 to Experiment 12:
+
+Lombardy increases by 28.2
+Levantine continuity increases by 29.2
+Northern/Eastern Europe decreases by 2.8
+
+Net redistribution:
+
+28.2 + 29.2 - 2.8 = 54.6
+
+That exactly equals the omitted Experiment 10 Italki–Maltese–Sicilian block.
+
+This is one of the strongest results in the matched series. Once the relevant
+central Mediterranean sources are excluded, their entire 54.6-point signal is
+redistributed into an inflated Northern Italian proxy and inflated Levantine
+controls, while Northern/Eastern Europe declines.
+
+Major finding 6: the Experiment 11 Maltese–Sicilian block is also redistributed
+exactly
+
+Experiment 11 retained:
+
+Maltese_(n=8): 34.0
+Italian_Sicily_West_(Sicilian)_(n=8): 9.6
+
+Combined: 43.6
+
+From Experiment 11 to Experiment 12:
+
+Lombardy increases by 23.6
+Druze increases by 5.8
+Palestinian Arab Christian increases by 13.2
+Samaritan increases by 0.4
+Russian increases by 0.6
+
+Total increase:
+
+23.6 + 5.8 + 13.2 + 0.4 + 0.6 = 43.6
+
+This exactly matches the removed Maltese–Sicilian block.
+
+The replacement is therefore measurable rather than speculative. The missing
+central Mediterranean signal is divided mainly between Lombardy and modern
+Levantine proxies.
+
+Major finding 7: the omission experiment reproduces the precise bias criticized
+in the preprint
+
+The full panel in Experiment 10 identifies Italki as the dominant individual
+source and assigns a majority to Italki, Maltese, and Sicilian populations.
+
+Experiment 11 removes Italki. The model then shifts primarily toward Maltese,
+Sicilian, and Italian sources, while the fit worsens.
+
+Experiment 12 removes the broader Southern Italian and central Mediterranean
+source space. The fit worsens much more sharply, Lombardy rises to 38.0, and
+the Levantine-continuity block rises to 52.0.
+
+This is exactly the structural distortion expected when the most relevant
+comparators are absent: a genuinely central Mediterranean profile is forced
+into an artificial Northern Italian–Levantine mixture.
+
+Subtler findings
+
+Italian Tuscany receives zero while Lombardy receives 38.0. This indicates that
+Lombardy, not Tuscany, is the surviving Italian proxy that best compensates for
+the omitted source space in this particular constrained panel. It does not make
+Lombardy the true historical source.
+
+Lebanese Arab Christian receives zero while Druze, Palestinian Arab Christian,
+and Samaritan collectively absorb the Levantine-continuity side. This reflects
+competition among correlated modern Levantine controls.
+
+German and Polish receive zero, and Russian remains close to 10. This confirms
+that Northern/Eastern European ancestry is a comparatively stable minority
+layer rather than the source class replacing the omitted Mediterranean core.
+
+Conclusion
+
+Experiment 12 is a powerful negative-control and source-omission test.
+
+Removing Italki, Southern Italian, Sicilian, Maltese, and Aegean sources:
+
+1. worsens the fit by 47.18 percent relative to the full panel;
+2. inflates Lombardy from 9.8 to 38.0;
+3. inflates the modern Levantine-continuity block from 22.8 to 52.0;
+4. reduces Northern/Eastern Europe from 12.8 to 10.0; and
+5. exactly redistributes the missing 54.6-point Italki–Maltese–Sicilian block.
+
+The experiment does not support a predominantly Levantine or Northern Italian
+historical origin. It demonstrates that those categories become inflated
+proxies when the Italian Jewish, Southern Italian, Sicilian, Maltese, and
+Aegean source space is removed.
+
+Methodological caution
+
+The displayed coefficients are constrained similarity weights, not exact
+historical ancestry percentages. The strongest inference is comparative:
+the same Ashkenazi target is tested across matched panels, the relevant source
+space is progressively removed, the fit deteriorates, and the replacement
+pattern can be measured directly.

@@ -1,0 +1,25 @@
+metric,formula,value,unit
+expanded_experiment_1_target_count,count(non-Average rows),196,rows
+reddit_screenshot_target_count,count(transcribed targets),14,rows
+reddit_screenshot_natufian_mean,sum(Natufian)/n,7.0429,percent
+controlled_same_14_natufian_mean,sum(Natufian)/n,8.3857,percent
+same_14_mean_shift,controlled mean - Reddit mean,1.3429,percentage_points
+same_14_rows_higher_in_controlled_run,count(controlled > Reddit),12,rows
+same_14_rows_unchanged,count(controlled = Reddit),2,rows
+same_14_rows_lower_in_controlled_run,count(controlled < Reddit),0,rows
+southern_italian_reference_count,Campania + Calabria + eastern Sicily + western Sicily,40,rows
+southern_italian_natufian_mean,sum(Natufian)/n,7.5700,percent
+southern_italian_low,min(Natufian),2.4,percent
+southern_italian_high,max(Natufian),12.2,percent
+southern_italian_internal_range,high - low,9.8,percentage_points
+italki_natufian,observed,16.2,percent
+italki_gap_above_southern_italian_high,Italki - Southern Italian high,4.0,percentage_points
+southern_range_to_italki_gap_ratio,Southern Italian range / Italki high-end gap,2.45,ratio
+pooled_ashkenazi_natufian,matched supplemental result,12.8,percent
+pooled_ashkenazi_gap_above_southern_italian_high,pooled Ashkenazi - Southern Italian high,0.6,percentage_points
+regional_ashkenazi_natufian_mean,mean of ten population-average targets,13.2400,percent
+regional_ashkenazi_natufian_range,minimum to maximum,11.4-15.0,percent
+maltese_natufian_range,minimum to maximum,4.0-16.4,percent
+crete_natufian_range,minimum to maximum,0.0-13.4,percent
+dodecanese_rhodes_kos_natufian_range,minimum to maximum,0.4-12.0,percent
+zero_natufian_source_dilution_boundary,100 * (1 - pooled Ashkenazi / Italki),20.9877,percent

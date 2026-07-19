@@ -1,0 +1,22 @@
+Stage 08 cross-method synthesis summary
+
+Completed UTC: 2026-07-18T17:55:40.558889+00:00
+Primary CV-supported K values used for ADMIXTURE median ranks: 12, 11, 10
+Strict CV-supported K values used for ADMIXTURE median ranks: 2, 3, 4
+
+Integrated Ashkenazi comparator ranking (PCA, Hudson FST, and ADMIXTURE):
+  1. Sicilian: mean normalized rank=0.0625, cross-method/panel SD=0.0000
+  2. Jew_Turkish: mean normalized rank=0.1250, cross-method/panel SD=0.0884
+  3. Maltese: mean normalized rank=0.1771, cross-method/panel SD=0.2511
+  4. Italian_South: mean normalized rank=0.2500, cross-method/panel SD=0.2253
+  5. Italian_Central: mean normalized rank=0.2708, cross-method/panel SD=0.1062
+  6. Greek: mean normalized rank=0.2917, cross-method/panel SD=0.0466
+  7. Cypriot: mean normalized rank=0.3021, cross-method/panel SD=0.1272
+  8. Italian_North: mean normalized rank=0.4792, cross-method/panel SD=0.1233
+  9. Lebanese_Christian: mean normalized rank=0.5000, cross-method/panel SD=0.0722
+  10. Lebanese_Muslim: mean normalized rank=0.5312, cross-method/panel SD=0.1288
+
+Interpretation:
+  Lower integrated ranks indicate comparators that remain relatively close to Ashkenazi across multiple methods and both reference-panel definitions.
+  The stability term is essential: a low mean rank with a large cross-method or cross-panel SD is less robust than a similarly low rank with small dispersion.
+  These analyses test modern genetic affinity and reference-panel sensitivity; they do not by themselves identify a unique historical source population or date of admixture.

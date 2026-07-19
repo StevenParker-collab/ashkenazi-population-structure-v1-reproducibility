@@ -1,0 +1,9 @@
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/v66.p1_compatibility_HO.aadr.patch.PUB.packed.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/v66.p1_compatibility_HO.aadr.patch.PUB.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/v66.p1_compatibility_HO.aadr.patch.PUB.ind
+poplistname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_071858_1nJHRC/broad_poplist.txt
+outputformat: EIGENSTRAT
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_071858_1nJHRC/broad.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_071858_1nJHRC/broad.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_071858_1nJHRC/broad.ind
+familynames: NO

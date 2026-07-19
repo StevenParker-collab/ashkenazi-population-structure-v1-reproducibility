@@ -1,0 +1,138 @@
+EXPERIMENT 11 — ASHKENAZI SAME PANEL WITH ITALKI OMITTED
+
+Purpose
+
+This matched omission test removes Italki_Jew_(n=9) while leaving the
+Southern Italian, Sicilian, Maltese, Aegean, modern Levantine-continuity,
+Northern/Central Italian, and Northern/Eastern European source classes unchanged.
+
+Corrected displayed result
+
+Distance: 0.00922012
+
+Retained sources
+
+Maltese_(n=8): 34.0
+Druze_Israel_(n=42): 23.0
+Italian_Lombardy_(Lombard)_(n=10): 14.4
+Italian_Sicily_West_(Sicilian)_(n=8): 9.6
+Russian_Smolensk_(n=15): 9.4
+Palestinian_Arab_Christian_(n=24): 8.0
+Samaritan_(n=7): 1.6
+
+Major finding 1: removing Italki worsens the fit
+
+Experiment 10 distance with Italki_Jew_(n=9): 0.00819655
+Experiment 11 distance without Italki_Jew_(n=9): 0.00922012
+
+Absolute deterioration: 0.00102357
+Relative deterioration: 12.49 percent
+
+The fit becomes clearly worse when Italki is removed. The remaining sources
+cannot reproduce the pooled Ashkenazi profile as efficiently.
+
+Major finding 2: most of the omitted Italki coefficient moves to Italian and
+central Mediterranean sources
+
+Maltese_(n=8): 11.4 to 34.0, increase of 22.6
+Italian_Sicily_West_(Sicilian)_(n=8): 2.4 to 9.6, increase of 7.2
+Italian_Lombardy_(Lombard)_(n=10): 9.8 to 14.4, increase of 4.6
+
+These increases total 34.4 points.
+
+The omitted Italki coefficient in Experiment 10 was 40.8. Therefore,
+34.4 of 40.8 points, or 84.3 percent of the omitted coefficient, reappears
+as increases in Maltese, Sicilian, and Italian Lombard sources.
+
+This is a replacement-pattern statistic rather than a literal historical
+ancestry percentage. Structurally, the model searches first for substitutes
+in the Italian and central Mediterranean portion of the panel.
+
+Major finding 3: Maltese is the largest replacement
+
+Maltese rises by 22.6 points and becomes the largest retained source at 34.0.
+Western Sicilian rises to 9.6.
+
+The Maltese-plus-Sicilian block totals 43.6. Including Lombardy raises the
+Italian, Sicilian, and Maltese total to 58.0.
+
+Lombardy is not Southern Italian and should not be described as such. Its
+importance here is that the omitted Italki signal is reconstructed mainly
+inside the broader Italian and central Mediterranean side of the competition.
+
+Major finding 4: the Levantine-continuity block rises but remains secondary
+
+Experiment 10 retained 22.8 Druze.
+
+Experiment 11 retains:
+
+Druze_Israel_(n=42): 23.0
+Palestinian_Arab_Christian_(n=24): 8.0
+Samaritan_(n=7): 1.6
+
+The corrected Levantine-continuity total is 32.6, an increase of 9.8 points
+over Experiment 10.
+
+This indicates that Italki shares some dimensions also represented by
+Levantine-continuity populations. Even so, the Levantine block remains
+smaller than the 58.0 assigned to Maltese, Sicilian, and Italian sources.
+
+Major finding 5: Northern and Eastern Europe do not replace Italki
+
+Experiment 10:
+
+Russian_Smolensk_(n=15): 11.0
+German_(n=113): 1.8
+Combined: 12.8
+
+Experiment 11:
+
+Russian_Smolensk_(n=15): 9.4
+German_(n=113): 0.0
+Combined: 9.4
+
+The Northern/Eastern European total falls by 3.4 points after Italki is
+removed. Polish remains at zero.
+
+If Italki were merely acting as a Rhineland or Eastern European proxy,
+German, Polish, or Russian should rise after its removal. Instead, their
+combined contribution declines.
+
+Major finding 6: the redistribution exactly accounts for the omitted 40.8
+
+Italian and central Mediterranean increases: +34.4
+Levantine-continuity increase: +9.8
+Northern/Eastern European decrease: -3.4
+
+Net redistribution: 34.4 + 9.8 - 3.4 = 40.8
+
+This exactly matches the Experiment 10 Italki coefficient.
+
+The matched omission test therefore shows where the model looks when the
+Italian Jewish source is unavailable:
+
+First, overwhelmingly toward Maltese, Sicilian, and Italian sources.
+Second, toward additional Levantine-continuity sources.
+Not toward Germany, Poland, or Russia.
+
+Conclusion
+
+Experiment 11 strengthens the interpretation of Experiment 10.
+
+Removing Italki:
+
+1. worsens the fit by 12.49 percent;
+2. transfers 34.4 points to Maltese, Sicilian, and Italian sources;
+3. raises the Levantine-continuity block by 9.8 points;
+4. lowers the Northern/Eastern European block by 3.4 points.
+
+The result supports an Italian Jewish and central Mediterranean core with a
+meaningful but secondary Levantine-continuity layer and a smaller later
+Northern/Eastern European contribution.
+
+Methodological caution
+
+The displayed values are constrained model coefficients, not exact historical
+ancestry percentages. The strongest inference comes from the matched change
+between Experiments 10 and 11: the panel is held constant, Italki is removed,
+the fit worsens, and the replacement pattern can be measured directly.

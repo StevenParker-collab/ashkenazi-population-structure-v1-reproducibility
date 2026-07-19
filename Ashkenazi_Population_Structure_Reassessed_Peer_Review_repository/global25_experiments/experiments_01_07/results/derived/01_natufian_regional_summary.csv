@@ -1,0 +1,14 @@
+comparison_set,n,mean_natufian_percent,minimum_percent,maximum_percent,range_width_points,coordinate_level,provenance
+Reddit screenshot: selected Calabria and Sicily,14,7.0429,4.6,9.8,5.2,individual,Reddit screenshot transcription
+Controlled replication: identical fourteen targets,14,8.3857,6.2,12.2,6.0,individual,controlled expanded run
+Calabria,8,7.6500,6.2,8.8,2.6,individual,controlled expanded run
+Eastern Sicily,3,9.1333,6.6,10.6,4.0,individual,controlled expanded run
+Western Sicily,3,9.6000,6.4,12.2,5.8,individual,controlled expanded run
+Campania,26,7.1308,2.4,11.0,8.6,individual,controlled expanded run
+Southern Italy combined,40,7.5700,2.4,12.2,9.8,individual,controlled expanded run
+Malta,8,9.3000,4.0,16.4,12.4,individual,controlled expanded run
+Crete,111,7.2414,0.0,13.4,13.4,individual,controlled expanded run
+"Dodecanese, Rhodes, and Kos",26,7.7231,0.4,12.0,11.6,individual,controlled expanded run
+Regional Ashkenazi populations,10,13.2400,11.4,15.0,3.6,population average,controlled expanded run
+Pooled Ashkenazi Jews,1,12.8000,12.8,12.8,0.0,pooled population,matched supplemental run
+Italki Jews,1,16.2000,16.2,16.2,0.0,pooled population,controlled expanded run

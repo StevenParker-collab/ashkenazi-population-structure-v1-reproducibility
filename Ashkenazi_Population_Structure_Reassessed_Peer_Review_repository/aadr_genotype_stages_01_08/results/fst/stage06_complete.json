@@ -1,0 +1,77 @@
+{
+  "command_line": [
+    "/home/computer/popgen/projects/ashkenazi_reference_test/06_run_fst.py"
+  ],
+  "completed_utc": "2026-07-18T16:01:04.885853+00:00",
+  "elapsed_seconds": 22.941045999526978,
+  "generated_files": [
+    "results/fst/METHODS_STAGE06_FST.txt",
+    "results/fst/figures/all_pairs_primary_vs_strict_hudson_fst.pdf",
+    "results/fst/figures/all_pairs_primary_vs_strict_hudson_fst.png",
+    "results/fst/figures/ashkenazi_hudson_fst_primary_vs_strict.pdf",
+    "results/fst/figures/ashkenazi_hudson_fst_primary_vs_strict.png",
+    "results/fst/figures/ashkenazi_hudson_vs_weir_cockerham.pdf",
+    "results/fst/figures/ashkenazi_hudson_vs_weir_cockerham.png",
+    "results/fst/figures/primary_hudson_fst_heatmap.pdf",
+    "results/fst/figures/primary_hudson_fst_heatmap.png",
+    "results/fst/figures/strict_minus_primary_hudson_fst_heatmap.pdf",
+    "results/fst/figures/strict_minus_primary_hudson_fst_heatmap.png",
+    "results/fst/figures/strict_pass_hudson_fst_heatmap.pdf",
+    "results/fst/figures/strict_pass_hudson_fst_heatmap.png",
+    "results/fst/fst_analysis_summary.txt",
+    "results/fst/stage06_fst_results_for_manuscript.txt",
+    "results/fst/stratified_frequencies/primary_shared_qc.frq.strat",
+    "results/fst/stratified_frequencies/strict_pass_shared_qc.frq.strat",
+    "results/fst/tables/ashkenazi_hudson_vs_weir_cockerham_validation.tsv",
+    "results/fst/tables/primary_ashkenazi_hudson_fst.tsv",
+    "results/fst/tables/primary_ashkenazi_plink_weir_cockerham_fst.tsv",
+    "results/fst/tables/primary_hudson_pairwise_fst.tsv",
+    "results/fst/tables/primary_population_counts.tsv",
+    "results/fst/tables/primary_strict_ashkenazi_hudson_comparison.tsv",
+    "results/fst/tables/primary_strict_hudson_pairwise_comparison.tsv",
+    "results/fst/tables/strict_pass_ashkenazi_hudson_fst.tsv",
+    "results/fst/tables/strict_pass_ashkenazi_plink_weir_cockerham_fst.tsv",
+    "results/fst/tables/strict_pass_hudson_pairwise_fst.tsv",
+    "results/fst/tables/strict_pass_population_counts.tsv"
+  ],
+  "matplotlib": "3.11.0",
+  "numpy": "2.5.1",
+  "options": {
+    "drop_wc_variant_files": false,
+    "force": false,
+    "skip_wc": false,
+    "workers": 4
+  },
+  "panels": {
+    "primary": {
+      "ashkenazi_population": "Jew_Ashkenazi",
+      "bfile": "/home/computer/popgen/projects/ashkenazi_reference_test/data/plink/modern_primary",
+      "bim_sha256": "f449c2d51f71a5f3691dc125cafd8f12b4e3d30392c39a9bf170d39e1163caea",
+      "fam_sha256": "97d81e767bf3619b911b7c4cd4441c48675128d5ce9df86d457485a250a0eb9a",
+      "manifest": "/home/computer/popgen/projects/ashkenazi_reference_test/manifests/modern_panel_primary.tsv",
+      "manifest_sha256": "85053a25ce10ea622addc227e0ccdfbca774b95a1c74d037e111eedbd06870a6",
+      "populations": 18,
+      "samples": 369
+    },
+    "strict_pass": {
+      "ashkenazi_population": "Jew_Ashkenazi",
+      "bfile": "/home/computer/popgen/projects/ashkenazi_reference_test/data/plink/modern_strict_pass",
+      "bim_sha256": "f449c2d51f71a5f3691dc125cafd8f12b4e3d30392c39a9bf170d39e1163caea",
+      "fam_sha256": "b93c26f457258bbbcd32be237b348ee42163ce3d8dc752db8681b155152ef256",
+      "manifest": "/home/computer/popgen/projects/ashkenazi_reference_test/manifests/modern_panel_strict_pass.tsv",
+      "manifest_sha256": "b3aeffc92cc1e10df5f550516ee7321145a1726c24f03f443f8a4e2d918c4a10",
+      "populations": 18,
+      "samples": 247
+    }
+  },
+  "plink_version": "PLINK v1.9.0-b.8 64-bit (22 Oct 2024)",
+  "project": "Ashkenazi reference-panel sensitivity experiment",
+  "python": "3.12.13 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:38:16) [GCC 14.3.0]",
+  "root": "/home/computer/popgen/projects/ashkenazi_reference_test",
+  "shared_qc_snp_count": 184385,
+  "shared_qc_snp_file": "/home/computer/popgen/projects/ashkenazi_reference_test/manifests/pca_admixture_shared_qc_snps.txt",
+  "shared_qc_snp_sha256": "192af8cee31f01810d32781e153d72eb4e4359359bde79acbcf2e85610d7e559",
+  "stage": 6,
+  "started_utc": "2026-07-18T16:00:41.943751+00:00",
+  "status": "complete"
+}

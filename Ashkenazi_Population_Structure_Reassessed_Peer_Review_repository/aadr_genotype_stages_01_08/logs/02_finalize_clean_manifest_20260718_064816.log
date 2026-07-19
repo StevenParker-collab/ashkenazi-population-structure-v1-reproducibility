@@ -1,0 +1,61 @@
+Stage 02B: finalize modern sample manifests
+Started: 2026-07-18T06:48:16-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+
+Completion summary
+------------------
+Primary panel samples: 369
+Strict Pass-only samples: 247
+PROVISIONAL_PASS samples retained and flagged: 122
+Excluded variant or failed-review records: 30
+Included samples with non-placeholder family-relation entries: 0
+
+Primary panel counts
+Cypriot	5
+Druze	83
+Greek	19
+Italian_Bergamo	26
+Italian_Central	16
+Italian_North	19
+Italian_South	22
+Italian_Tuscan	16
+Jew_Ashkenazi	7
+Jew_Iraqi	8
+Jew_Turkish	8
+Jew_Yemenite	10
+Lebanese	8
+Lebanese_Christian	9
+Lebanese_Muslim	11
+Maltese	8
+Palestinian	83
+Sicilian	11
+
+Strict Pass-only counts
+Cypriot	5
+Druze	39
+Greek	18
+Italian_Bergamo	12
+Italian_Central	16
+Italian_North	19
+Italian_South	22
+Italian_Tuscan	6
+Jew_Ashkenazi	7
+Jew_Iraqi	6
+Jew_Turkish	8
+Jew_Yemenite	8
+Lebanese	8
+Lebanese_Christian	9
+Lebanese_Muslim	11
+Maltese	8
+Palestinian	34
+Sicilian	11
+
+Outputs
+manifests/modern_panel_primary.tsv
+manifests/modern_panel_primary_ids.txt
+manifests/modern_panel_strict_pass.tsv
+manifests/modern_panel_strict_pass_ids.txt
+manifests/modern_panel_exclusions.tsv
+
+Log: logs/02_finalize_clean_manifest_20260718_064816.log
+Finished: 2026-07-18T06:48:17-07:00

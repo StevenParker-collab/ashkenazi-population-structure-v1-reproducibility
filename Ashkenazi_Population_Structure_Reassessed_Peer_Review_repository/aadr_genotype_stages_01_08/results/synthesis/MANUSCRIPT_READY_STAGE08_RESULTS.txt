@@ -1,0 +1,9 @@
+Cross-method results
+
+The reference-panel sensitivity analysis produced convergent but non-identical signals across PCA, genome-wide FST, and unsupervised ADMIXTURE. Comparator ranks were therefore integrated after normalizing ranks within each method and panel, rather than treating any single metric as definitive. The integrated analysis emphasizes populations that remain relatively close to Ashkenazi samples under both the primary and Strict Pass-only panel definitions.
+
+The five highest-ranked comparators in the equal-weight cross-method synthesis were Sicilian, Jew_Turkish, Maltese, Italian_South, and Italian_Central.
+
+The panel comparison also identified specific unstable references. Large rank or distance shifts are reported as sensitivity findings rather than being merged into the stable signal. This distinction is especially important where population composition changes substantially between the primary and strict panels.
+
+These results describe modern affinity within the tested comparator set. They support or challenge reference-panel choices, but they do not alone establish a unique ancestral source, admixture chronology, or direction of gene flow. Formal f-statistic, qpWave, and qpAdm analyses require a separately justified source and outgroup design.

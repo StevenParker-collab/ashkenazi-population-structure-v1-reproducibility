@@ -1,0 +1,5 @@
+Stage 03: construct exact-ID EIGENSTRAT subsets
+Started: 2026-07-18T07:50:02-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+convertf: /home/computer/miniconda3/envs/popgen/bin/convertf
+-bash: syntax error near unexpected token `)'

@@ -1,0 +1,25 @@
+PCA analysis summary
+====================
+
+Primary-strict Procrustes RMSD across PC1-PC10: 0.0543532167
+
+primary
+-------
+Variance explained PC1-PC5: 7.289%, 6.882%, 5.968%, 5.678%, 5.579%
+Five nearest population centroids to Ashkenazi using PC1-PC10:
+  1. Maltese: 0.0056526600
+  2. Sicilian: 0.0087353046
+  3. Italian_South: 0.0103367964
+  4. Jew_Turkish: 0.0106736196
+  5. Cypriot: 0.0151874593
+
+strict_pass
+-----------
+Variance explained PC1-PC5: 8.244%, 7.070%, 5.544%, 5.485%, 5.216%
+Five nearest population centroids to Ashkenazi using PC1-PC10:
+  1. Maltese: 0.0339351509
+  2. Sicilian: 0.0368037083
+  3. Cypriot: 0.0379055460
+  4. Jew_Turkish: 0.0384438656
+  5. Greek: 0.0544138461
+

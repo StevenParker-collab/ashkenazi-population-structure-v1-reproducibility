@@ -1,0 +1,18 @@
+Metric	Value	Unit_or_note
+German target	Ashkenazi_Jew_Germany_(n=10)	
+Central Mediterranean coefficient	0.7540000000	fraction
+Levantine-continuity coefficient	0.1660000000	fraction
+Northern/Eastern European coefficient	0.0800000000	fraction
+Cosine similarity of Levant and northern vectors	-0.7864541172	dimensionless
+Central-to-Levant centroid distance	0.0616867490	Global25 Euclidean
+Central-to-northern centroid distance	0.1372634816	Global25 Euclidean
+Weighted Levant displacement magnitude	0.0102400003	Global25 Euclidean
+Weighted northern displacement magnitude	0.0109810785	Global25 Euclidean
+Combined opposing displacement magnitude	0.0069695096	Global25 Euclidean
+Model residual from target	0.0066523896	Global25 Euclidean
+Reported model distance	0.0066523900	Global25 Euclidean
+PC1 explained variance	0.8754199639	fraction
+PC2 explained variance	0.0757277679	fraction
+Levant weighted shift on PC1	-0.0086868203	PCA score units
+Northern weighted shift on PC1	0.0108287805	PCA score units
+Net weighted shift on PC1	0.0021419601	PCA score units

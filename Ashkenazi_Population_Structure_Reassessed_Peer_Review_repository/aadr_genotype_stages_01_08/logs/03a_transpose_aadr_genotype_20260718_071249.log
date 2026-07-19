@@ -1,0 +1,18 @@
+Stage 03A: transpose AADR TGENO to standard packed GENO
+Started: 2026-07-18T07:12:49-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+transpose: /home/computer/miniconda3/envs/popgen/bin/transpose
+Input header: TGENO 27594 276725 8c17d6d1 e42ba255
+Existing valid packed GENO output found; skipping conversion.
+Verified individuals: 27594
+Verified SNPs: 276725
+Verified SNP and individual hashes: unchanged
+
+Completion summary
+------------------
+Input size: 1.8G
+Output size: 1.8G
+Output header: GENO 27594 276725 8c17d6d1 e42ba255
+Output file: data/eigenstrat/v66.p1_compatibility_HO.aadr.patch.PUB.packed.geno
+Log: logs/03a_transpose_aadr_genotype_20260718_071249.log
+Finished: 2026-07-18T07:12:53-07:00

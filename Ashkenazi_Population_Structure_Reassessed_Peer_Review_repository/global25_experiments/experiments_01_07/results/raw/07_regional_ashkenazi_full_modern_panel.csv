@@ -1,0 +1,12 @@
+Target,Distance,Belarusian_(n=27),Greek_Crete_(n=10),Greek_Crete_Lasithi_(n=7),Greek_Dodecanese_Kos_(n=9),Greek_Dodecanese_Rhodes_(n=15),Italian_Sicily_(Sicilian)_(n=2),Italian_Sicily_Agrigento_(Sicilian)_(n=2),Italian_Sicily_Central_(Sicilian)_(n=2),Italian_Sicily_East_(Sicilian)_(n=1),Italian_Sicily_Palermo_(Sicilian)_(n=2),Italian_Sicily_Trapani_(Sicilian)_(n=7),Italki_Jew_(n=9),Maltese_(n=8),Russian_Smolensk_(n=15),Swedish_(n=114),Ukrainian_(n=25)
+Ashkenazi_Jew_Austria_(n=2),0.01385740,0.0,0.0,0.0,0.0,10.8,0.0,0.0,7.2,0.0,0.0,0.0,70.2,2.4,4.6,4.8,0.0
+Ashkenazi_Jew_Belarus_(n=15),0.01197487,5.6,0.0,0.0,26.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.0,0.0,0.0,9.6,0.0
+Ashkenazi_Jew_France_(n=8),0.00877108,0.0,0.0,0.0,15.6,0.0,0.0,0.0,0.0,0.0,2.6,12.4,51.2,18.2,0.0,0.0,0.0
+Ashkenazi_Jew_Germany_(n=10),0.00836110,0.0,0.0,0.0,15.8,0.0,0.0,5.4,0.0,5.4,2.2,7.0,41.2,23.0,0.0,0.0,0.0
+Ashkenazi_Jew_Latvia_(n=2),0.01593165,0.0,7.2,0.0,0.0,17.8,1.6,0.0,3.8,0.0,0.0,0.0,60.4,0.0,9.2,0.0,0.0
+Ashkenazi_Jew_Lithuania_(n=11),0.01390042,9.0,0.0,0.0,24.4,4.0,0.0,0.0,0.0,0.0,0.0,0.0,57.6,0.0,0.0,5.0,0.0
+Ashkenazi_Jew_Poland_(n=35),0.00964821,0.0,0.0,0.0,0.0,15.4,0.0,0.0,6.2,0.0,0.0,0.0,64.6,0.0,6.4,7.4,0.0
+Ashkenazi_Jew_Romania_(n=2),0.01204780,0.0,0.0,4.2,0.0,20.6,0.0,0.0,12.8,0.0,0.0,0.0,44.8,5.2,0.0,12.4,0.0
+Ashkenazi_Jew_Russia_(n=10),0.01350939,0.0,13.6,0.0,11.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,0.0,0.0,8.8,7.4
+Ashkenazi_Jew_Ukraine_(n=24),0.01065915,7.0,0.0,0.0,0.0,14.4,0.0,0.0,4.6,0.0,0.0,2.4,63.0,0.0,0.0,8.6,0.0
+Average,0.01186611,2.2,0.7,1.8,8.3,9.4,0.2,0.5,3.5,0.5,0.5,2.2,57.0,4.9,2.0,5.7,0.7

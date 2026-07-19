@@ -1,0 +1,8 @@
+Stage 02: assessment review and conservative manifest construction
+Started: 2026-07-18T06:38:36-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+Python: Python 3.12.13
+Traceback (most recent call last):
+  File "<stdin>", line 30, in <module>
+  File "<stdin>", line 28, in column
+RuntimeError: Required annotation column not found: ('Genetic ID', 'Genetic_ID')

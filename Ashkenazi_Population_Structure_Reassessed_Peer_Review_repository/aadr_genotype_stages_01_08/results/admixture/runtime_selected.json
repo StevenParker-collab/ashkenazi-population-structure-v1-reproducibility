@@ -1,0 +1,16 @@
+{
+  "selected_utc": "2026-07-18T17:54:55.992956+00:00",
+  "executable": "/home/computer/popgen/projects/ashkenazi_reference_test/tools/admixture_linux-1.4.0/admixture",
+  "version": "1.4.0",
+  "probe": "****                   ADMIXTURE Version 1.4.0                  ****",
+  "threads": 8,
+  "requested_threads": 8,
+  "fallback_events": [],
+  "environment_guards": {
+    "OMP_NUM_THREADS": 8,
+    "OPENBLAS_NUM_THREADS": 1,
+    "MKL_NUM_THREADS": 1,
+    "NUMEXPR_NUM_THREADS": 1,
+    "OMP_DYNAMIC": "FALSE"
+  }
+}

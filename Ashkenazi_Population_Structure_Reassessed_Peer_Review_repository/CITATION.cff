@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Ashkenazi Population Structure Reassessed: Peer-Review Reproducibility Repository"
+message: "If you use this repository, cite the manuscript and this reproducibility package."
+authors:
+  - family-names: "Parker"
+    given-names: "Steven"
+repository-code: "https://github.com/StevenParker-collab/ashkenazi-population-structure-v1-reproducibility"
+version: "peer-review-central-mediterranean-reproducibility"
+date-released: "2026-07-19"

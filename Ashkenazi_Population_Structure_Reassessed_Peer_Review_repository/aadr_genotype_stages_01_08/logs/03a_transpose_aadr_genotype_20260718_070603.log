@@ -1,0 +1,10 @@
+Stage 03A: transpose AADR TGENO to standard packed GENO
+Started: 2026-07-18T07:06:03-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+transpose: /home/computer/miniconda3/envs/popgen/bin/transpose
+Input header: TGENO   27594  276725 8c17d6d1 e42ba255ûºï¬ÿøþ‹ê.®ûî>®â
+Running transpose...
+reading v66.p1_compatibility_HO.aadr.patch.PUB.geno
+matrix type is TGENO
+Temporary output header: GENO   27594  276725 8c17d6d1 e42ba255
+ERROR: SNP or individual hashes changed during transpose

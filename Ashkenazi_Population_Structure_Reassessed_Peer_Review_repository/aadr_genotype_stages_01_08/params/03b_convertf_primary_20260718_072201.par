@@ -1,0 +1,8 @@
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/primary_text.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/primary_text.ind
+outputformat: PACKEDANCESTRYMAP
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_primary.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_primary.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_primary.ind
+familynames: NO

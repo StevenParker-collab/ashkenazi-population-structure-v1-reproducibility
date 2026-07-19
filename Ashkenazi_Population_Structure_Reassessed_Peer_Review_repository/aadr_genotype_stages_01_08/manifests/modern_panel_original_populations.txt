@@ -1,0 +1,16 @@
+Cypriot
+Druze
+Greek
+Italian_Central
+Italian_North
+Italian_South
+Jew_Ashkenazi
+Jew_Iraqi
+Jew_Turkish
+Jew_Yemenite
+Lebanese
+Lebanese_Christian
+Lebanese_Muslim
+Maltese
+Palestinian
+Sicilian

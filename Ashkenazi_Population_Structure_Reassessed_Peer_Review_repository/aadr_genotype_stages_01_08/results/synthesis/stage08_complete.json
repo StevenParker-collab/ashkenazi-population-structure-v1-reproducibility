@@ -1,0 +1,41 @@
+{
+  "stage": 8,
+  "completed_utc": "2026-07-18T17:55:40.559045+00:00",
+  "supported_K": {
+    "primary": [
+      12,
+      11,
+      10
+    ],
+    "strict_pass": [
+      2,
+      3,
+      4
+    ]
+  },
+  "comparators": 17,
+  "top_integrated_comparators": [
+    "Sicilian",
+    "Jew_Turkish",
+    "Maltese",
+    "Italian_South",
+    "Italian_Central",
+    "Greek",
+    "Cypriot",
+    "Italian_North",
+    "Lebanese_Christian",
+    "Lebanese_Muslim"
+  ],
+  "outputs": [
+    "results/synthesis/MANUSCRIPT_READY_STAGE08_RESULTS.txt",
+    "results/synthesis/METHODS_STAGE08_SYNTHESIS.txt",
+    "results/synthesis/figures/integrated_comparator_ranking.pdf",
+    "results/synthesis/figures/integrated_comparator_ranking.png",
+    "results/synthesis/figures/integrated_rank_heatmap.pdf",
+    "results/synthesis/figures/integrated_rank_heatmap.png",
+    "results/synthesis/figures/primary_strict_integrated_rank_stability.pdf",
+    "results/synthesis/figures/primary_strict_integrated_rank_stability.png",
+    "results/synthesis/stage08_synthesis_summary.txt",
+    "results/synthesis/tables/integrated_comparator_ranking.tsv"
+  ]
+}

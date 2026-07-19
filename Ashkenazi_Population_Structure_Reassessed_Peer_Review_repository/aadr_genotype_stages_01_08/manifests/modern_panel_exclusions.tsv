@@ -1,0 +1,31 @@
+Genetic_ID	Original_Group	Locality	Assessment	Reason
+Cyprus13AJ19.HO	Cypriot-1	Nicosia	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+Cyprus21AJ19.HO	Cypriot-2	Nicosia	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+Cyprus2AJ19.HO	Cypriot-2	Nicosia	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00581.HO	Druze-QCremove	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00590.HO	Druze-QCremove	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00576.HO	Druze-o	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+NA17370.HO	Greek-QCremove	Greece, modern	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+NA17371.HO	Greek-QCremove	Greece, modern	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+NA17374.HO	Greek-oPontic	Greece, modern	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP01163.HO	Italian_North-1	Italy, modern 3	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP01168.HO	Italian_North-1	Italy, modern 3	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP01149.HO	Italian_North-QCremove	Italy, modern 2	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+YZ024.HO	Jew_Ashkenazi	Iran, modern	Questionable	Assessment is not Pass or PROVISIONAL_PASS
+AshkenaziJew5775.HO	Jew_Ashkenazi-QCremove	Poland, modern	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+AshkenaziJew5780.HO	Jew_Ashkenazi-QCremove	Poland, modern	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+IraqiJew1424.HO	Jew_Iraqi-QCremove	Iraq, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+IraqiJew1524.HO	Jew_Iraqi-QCremove	Iraq, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+IraqiJew4077.HO	Jew_Iraqi-QCremove	Iraq, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+SephardiJewTurkey6051.HO	Jew_Turkish-QCremove	Turkey, modern	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00692.HO	Palestinian-QCremove	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00738.HO	Palestinian-QCremove	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00741.HO	Palestinian-QCremove	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00744.HO	Palestinian-QCremove	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00685.HO	Palestinian-oAfrica	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00687.HO	Palestinian-oAfrica	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00731.HO	Palestinian-oAfrica	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00678.HO	Palestinian-oRelative	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00682.HO	Palestinian-oRelative	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00693.HO	Palestinian-oRelative	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels
+HGDP00723.HO	Palestinian-oRelative	Israel, modern 1	Pass	Variant group excluded by default, including QCremove/outlier/subgroup labels

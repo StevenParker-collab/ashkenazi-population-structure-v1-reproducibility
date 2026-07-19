@@ -1,0 +1,346 @@
+EXPERIMENT 14 — REGIONAL ASHKENAZI FULL MODERN PANEL WITH LEVANT CONTROLS
+
+Purpose
+
+The identical full modern source panel from Experiment 10 is applied to ten
+named regional Ashkenazi population averages. No individual is used.
+
+The regional series tests whether the pooled Experiment 10 structure remains
+stable across western and eastern Ashkenazi populations, and whether later
+Northern or Eastern European displacement replaces the older Italki and
+central Mediterranean signal.
+
+Displayed regional average
+
+Distance: 0.01041373
+
+Average retained coefficients:
+
+Italki_Jew_(n=9): 38.1
+Druze_Israel_(n=42): 20.3
+Maltese_(n=8): 10.9
+German_(n=113): 7.9
+Italian_Calabria_Reggio_Calabria_(Calabrese)_(n=9): 5.1
+Russian_Smolensk_(n=15): 4.2
+Italian_Lombardy_(Lombard)_(n=10): 3.8
+Italian_Sicily_West_(Sicilian)_(n=8): 2.5
+Polish_(n=68): 1.9
+Palestinian_Arab_Christian_(n=24): 1.5
+Italian_Campania_(Campanian)_(n=14): 1.3
+Lebanese_Arab_Christian_(n=27): 1.2
+Greek_Dodecanese_Rhodes_(n=15): 0.7
+Samaritan_(n=7): 0.5
+
+Major finding 1: Italki is retained in every regional Ashkenazi population
+
+Italki_Jew_(n=9) is nonzero in all ten regional targets.
+
+It is the largest individual source in nine of the ten regions. Lithuania is
+the sole exception, where Druze is 29.8 and Italki is 20.4. Even there, the
+complete central Mediterranean block remains a majority.
+
+Regional Italki values range from 20.4 to 53.6:
+
+Austria: 37.8
+Belarus: 26.8
+France: 34.8
+Germany: 31.8
+Latvia: 50.8
+Lithuania: 20.4
+Poland: 53.6
+Romania: 38.6
+Russia: 41.6
+Ukraine: 45.2
+
+The average is 38.1, only 2.7 points below the pooled Experiment 10 result of
+40.8. This persistence is one of the strongest findings in the regional test.
+
+Major finding 2: the strict central Mediterranean block is a majority in all
+ten regional targets
+
+For this descriptive comparison, the strict central Mediterranean block is:
+
+Italki
+Maltese
+Calabria
+Campania
+West Sicily
+Rhodes
+
+It excludes Lombardy.
+
+The block is above 50 percent in every regional result:
+
+Austria: 56.6
+Belarus: 53.8
+France: 76.4
+Germany: 75.4
+Latvia: 50.8
+Lithuania: 53.2
+Poland: 55.4
+Romania: 54.8
+Russia: 54.2
+Ukraine: 55.6
+
+Regional range: 50.8 to 76.4
+Unweighted regional average: 58.6
+
+When Lombardy is included as a broader Italian component, the regional average
+rises to 62.5, with a range of 53.2 to 76.4.
+
+The category-level result is therefore completely stable: every regional
+Ashkenazi population resolves primarily inside Italian Jewish and central
+Mediterranean source space.
+
+Major finding 3: the pooled Experiment 10 structure is closely reproduced
+
+Experiment 10 pooled Ashkenazi result:
+
+Italki: 40.8
+Strict central Mediterranean: 54.6
+Broader Italian and central Mediterranean: 64.4
+Levantine continuity: 22.8
+Northern/Eastern Europe: 12.8
+
+Experiment 14 unweighted regional average:
+
+Italki: 38.1
+Strict central Mediterranean: 58.6
+Broader Italian and central Mediterranean: 62.5
+Levantine continuity: 23.5
+Northern/Eastern Europe: 14.0
+
+The differences are small:
+
+Italki: -2.7
+Strict central Mediterranean: +4.0
+Broader Italian and central Mediterranean: -1.9
+Levantine continuity: +0.7
+Northern/Eastern Europe: +1.2
+
+The pooled target and the ten-region series therefore produce essentially the
+same high-level structure despite regional variation.
+
+The 62.5 grouped value is calculated from the ten regional category totals. Summing the separately rounded components in the displayed Average row gives 62.4.
+
+The Experiment 14 average is an unweighted average of ten separately modeled
+regional populations, while Experiment 10 is a pooled population target.
+They are not mathematically identical estimators. Their close agreement is
+therefore a descriptive stability result rather than an identity expected by
+construction.
+
+Major finding 4: the central Mediterranean signal remains strong in both
+western and eastern Ashkenazi populations
+
+Western regional examples:
+
+France:
+Strict central Mediterranean 76.4
+Levantine continuity 18.2
+Northern/Eastern Europe 5.4
+
+Germany:
+Strict central Mediterranean 75.4
+Levantine continuity 16.6
+Northern/Eastern Europe 8.0
+
+Eastern regional examples:
+
+Poland:
+Italki 53.6
+Strict central Mediterranean 55.4
+Levantine continuity 21.2
+Northern/Eastern Europe 14.4
+
+Ukraine:
+Italki 45.2
+Strict central Mediterranean 55.6
+Levantine continuity 21.6
+Northern/Eastern Europe 18.0
+
+Russia:
+Italki 41.6
+Strict central Mediterranean 54.2
+Levantine continuity 23.8
+Northern/Eastern Europe 18.8
+
+Latvia:
+Italki 50.8
+Strict central Mediterranean 50.8
+Levantine continuity 31.8
+Northern/Eastern Europe 12.6
+
+The Italki signal is therefore not confined to western Ashkenazi groups and is
+not erased in the eastern regional averages. In several eastern targets it is
+even higher than in France or Germany.
+
+Major finding 5: later Northern and Eastern European ancestry remains a
+minority layer
+
+The combined German, Polish, and Russian_Smolensk block ranges from 5.4 to
+20.0 across the ten regional targets.
+
+Unweighted regional average: 14.0
+
+No regional population is modeled primarily through Northern or Eastern
+European sources.
+
+The host-region coefficients also fail to replace the Italki signal:
+
+Ashkenazi Poland:
+Italki 53.6
+Polish 0.0
+Russian 8.4
+German 6.0
+
+Ashkenazi Russia:
+Italki 41.6
+Russian 9.0
+German 9.8
+Polish 0.0
+
+Ashkenazi Ukraine:
+Italki 45.2
+Russian 7.6
+German 10.4
+Polish 0.0
+
+Ashkenazi Germany:
+Italki 31.8
+German 6.8
+
+These results are inconsistent with a model in which the regional Ashkenazi
+placement is principally generated by German, Polish, or Russian ancestry.
+Those sources behave as variable minority additions to a persistent older
+profile.
+
+Major finding 6: the Levantine-continuity component is stable and secondary
+
+The combined Levantine-continuity block consists of:
+
+Druze
+Lebanese Arab Christian
+Palestinian Arab Christian
+Samaritan
+
+It ranges from 16.6 to 31.8 across the regions.
+
+Unweighted regional average: 23.5
+
+This is almost identical to the pooled Experiment 10 value of 22.8.
+
+The Levantine component is real and persistent, but it remains smaller than the
+strict central Mediterranean block in every one of the ten regional targets.
+
+Major finding 7: regional variation redistributes correlated Mediterranean
+proxies without eliminating the underlying block
+
+The detailed coefficients vary:
+
+France and Germany use large Maltese, Calabrian, and Campanian combinations.
+
+Lithuania and Russia use West Sicily.
+
+Romania alone retains Rhodes.
+
+Austria uses Maltese and Lombardy.
+
+Belarus uses Calabria and Campania.
+
+Poland and Latvia place especially large coefficients directly on Italki.
+
+This is expected in a correlated modern competition panel. Italki, Southern
+Italian, Sicilian, Maltese, and Aegean sources overlap and can substitute for
+one another. The robust signal is the regional block total, not the exact
+allocation to one modern province or island.
+
+Major finding 8: Italki is the most persistent single source in the panel
+
+Italki is retained in 10 of 10 regional targets.
+
+Maltese and Druze are each retained in 9 of 10. German is also retained in
+9 of 10, but at a much lower average of 7.9 compared with 38.1 for Italki.
+
+The combination of universal persistence, the highest mean coefficient, and
+largest-source status in nine regions makes Italki the clearest individual
+anchor of the regional series.
+
+Major finding 9: fit differences require attention to sample size and
+regional heterogeneity
+
+Distances range from:
+
+Germany: 0.00665239
+France: 0.00736007
+Russia: 0.01284045
+
+The unweighted average is 0.01041373.
+
+Austria, Latvia, and Romania each have only n=2, so their source allocations
+and distances should be treated as less stable than those for Poland n=35,
+Ukraine n=24, Belarus n=15, Lithuania n=11, Germany n=10, and Russia n=10.
+
+Even the three n=2 targets nevertheless preserve the central finding:
+
+Austria strict central Mediterranean: 56.6
+Latvia: 50.8
+Romania: 54.8
+
+Thus, the precise coefficients fluctuate, but the majority central
+Mediterranean structure survives.
+
+Major finding 10: the regional series reinforces Experiments 10 through 13
+
+Experiment 10:
+The pooled Ashkenazi target selects Italki as the dominant source.
+
+Experiment 11:
+Removing Italki worsens the fit and transfers most of its coefficient to
+Maltese, Sicilian, and Italian sources rather than to Northern/Eastern Europe.
+
+Experiment 12:
+Removing the broader central Mediterranean source space sharply worsens the
+fit and inflates Lombardy and Levantine proxies.
+
+Experiment 13:
+Italki itself independently resolves primarily through Maltese, Calabrian,
+Sicilian, and Italian space with no retained Northern/Eastern European source.
+
+Experiment 14:
+The same general structure is reproduced across ten regional Ashkenazi
+population averages.
+
+Together, the experiments show that the pooled result is not being driven by
+one regional subgroup or by aggregation. The Italki and central Mediterranean
+signal is geographically persistent across the Ashkenazi regional series.
+
+Conclusion
+
+Experiment 14 provides strong regional validation of the pooled Ashkenazi
+result.
+
+Across all ten regional targets:
+
+1. Italki is retained every time.
+2. Italki is the largest individual source in nine of ten regions.
+3. The strict central Mediterranean block is a majority in every region.
+4. The strict block averages 58.6.
+5. The broader Italian and central Mediterranean block averages 62.5.
+6. Levantine continuity averages 23.5.
+7. Northern/Eastern Europe averages 14.0 and remains a minority in every
+   region.
+
+The regional series is consistent with a shared Italian Jewish and central
+Mediterranean foundation that predates later Ashkenazi dispersal. Regional
+European admixture modifies the profile but does not create or replace its
+dominant structure.
+
+Methodological caution
+
+The displayed values are constrained similarity coefficients, not exact
+historical ancestry percentages. Closely related modern sources can substitute
+for one another, and the regional averages have unequal sample sizes.
+
+The strongest evidence is therefore not one coefficient in isolation. It is
+the repeated category-level result across ten independently modeled regional
+population averages using the same source panel.

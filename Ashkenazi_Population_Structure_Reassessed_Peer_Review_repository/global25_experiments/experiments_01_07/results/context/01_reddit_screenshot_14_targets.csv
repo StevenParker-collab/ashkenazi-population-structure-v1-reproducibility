@@ -1,0 +1,16 @@
+Target,Distance,ANF,CHG,EHG,Iberomaurusian,Iran_N,Natufian,WHG
+Sicilian_East:EastSicilian2H,0.03004265,61.4,15.2,12.8,0.0,4.0,6.6,0.0
+Sicilian_East:EastSicilian5H,0.04257261,57.8,10.6,14.8,0.0,7.0,9.8,0.0
+Sicilian_East:EastSicilian8H,0.02876229,55.2,14.0,10.4,0.0,8.2,9.8,2.4
+Sicilian_West:WestSicilian10H,0.03396614,56.2,9.8,14.4,0.0,8.8,6.4,4.4
+Sicilian_West:WestSicilian4H,0.03172699,56.8,11.2,10.6,2.8,9.0,7.2,2.4
+Sicilian_West:WestSicilian7H,0.03676931,58.2,9.6,13.2,2.6,7.2,6.0,3.2
+Italian_Calabria:ALP129,0.02903423,59.2,11.2,9.6,1.6,11.6,6.8,0.0
+Italian_Calabria:ALP582,0.02232898,61.0,10.0,10.2,1.0,12.0,5.8,0.0
+Italian_Calabria:ALP596,0.02702791,58.4,14.0,11.0,0.4,7.6,8.2,0.4
+Italian_Calabria:ALP597,0.02898498,55.8,13.8,14.2,0.0,8.6,7.6,0.0
+Italian_Calabria:BEL57,0.04076731,59.8,15.8,12.6,0.8,6.4,4.6,0.0
+Italian_Calabria:PG2012_398,0.03351517,60.2,10.2,9.6,2.0,11.4,5.8,0.8
+Italian_Calabria:PG2012_424,0.03288211,63.0,14.8,14.4,0.0,1.8,6.0,0.0
+Italian_Calabria:PG2012_699,0.03527256,59.4,12.8,9.8,0.6,9.4,8.0,0.0
+Average,0.03240380,58.7,12.4,12.0,0.8,8.1,7.0,1.0

@@ -1,0 +1,19 @@
+population	primary_n	strict_pass_n	candidate_role	category
+Cypriot	5	5	source/comparator candidate	Central/eastern Mediterranean
+Druze	83	39	source/comparator candidate	Levantine
+Greek	19	18	source/comparator candidate	Central/eastern Mediterranean
+Italian_Bergamo	26	12	source/comparator candidate	Central/eastern Mediterranean
+Italian_Central	16	16	source/comparator candidate	Central/eastern Mediterranean
+Italian_North	19	19	source/comparator candidate	Central/eastern Mediterranean
+Italian_South	22	22	source/comparator candidate	Central/eastern Mediterranean
+Italian_Tuscan	16	6	source/comparator candidate	Central/eastern Mediterranean
+Jew_Ashkenazi	7	7	target	Other
+Jew_Iraqi	8	6	source/comparator candidate	Jewish comparator
+Jew_Turkish	8	8	source/comparator candidate	Jewish comparator
+Jew_Yemenite	10	8	source/comparator candidate	Jewish comparator
+Lebanese	8	8	source/comparator candidate	Levantine
+Lebanese_Christian	9	9	source/comparator candidate	Levantine
+Lebanese_Muslim	11	11	source/comparator candidate	Levantine
+Maltese	8	8	source/comparator candidate	Central/eastern Mediterranean
+Palestinian	83	34	source/comparator candidate	Levantine
+Sicilian	11	11	source/comparator candidate	Central/eastern Mediterranean

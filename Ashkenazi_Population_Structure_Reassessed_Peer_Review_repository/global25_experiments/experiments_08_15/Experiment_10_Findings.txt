@@ -1,0 +1,99 @@
+EXPERIMENT 10 — ASHKENAZI FULL MODERN COMPETITION WITH LEVANT CONTROLS
+
+Purpose
+
+The pooled Ashkenazi Jewish average is modeled with Italki Jews, Southern Italians,
+Sicilians, Maltese, Aegean Greeks, modern Levantine-continuity populations,
+Northern/Central Italians, and Northern/Eastern Europeans competing simultaneously.
+This is the principal modern-population stress test of the preprint thesis.
+
+Result
+
+Distance: 0.00819655
+
+Retained sources:
+Italki_Jew_(n=9): 40.8
+Druze_Israel_(n=42): 22.8
+Maltese_(n=8): 11.4
+Russian_Smolensk_(n=15): 11.0
+Italian_Lombardy_(Lombard)_(n=10): 9.8
+Italian_Sicily_West_(Sicilian)_(n=8): 2.4
+German_(n=113): 1.8
+
+Major findings
+
+1. Italki Jews are the dominant source.
+
+Italki_Jew_(n=9) contributes 40.8 percent, by far the largest single coefficient.
+This is especially important because Italki Jews are not a Rhineland or Eastern European
+population. Their dominant role identifies an Italian Jewish and central Mediterranean
+core that cannot be explained as a later Ashkenazi acquisition in Germany, Poland, or Russia.
+
+2. The central Mediterranean block is the majority of the model.
+
+Italki Jews, Maltese, and western Sicilians together account for 54.6 percent:
+40.8 + 11.4 + 2.4 = 54.6.
+
+Including Italian Lombardy raises the total represented by Italian, Italian Jewish,
+Sicilian, and Maltese sources to 64.4 percent. Lombardy should not be treated as equivalent
+to Southern Italy, but its retained coefficient still belongs to the Italian side of the
+competition rather than the Levantine or Northern/Eastern European side.
+
+3. The Levantine-continuity contribution is substantial but secondary.
+
+Druze_Israel_(n=42) contributes 22.8 percent. Samaritan, Palestinian Arab Christian,
+and Lebanese Arab Christian do not survive the simultaneous competition in the displayed
+nonzero solution. Thus, the model does not describe Ashkenazi Jews as primarily modern
+Levantine-like. The retained Levantine signal is real, but it is much smaller than the
+combined Italian Jewish and central Mediterranean signal.
+
+4. Northern and Eastern European sources are minority contributors.
+
+Russian_Smolensk_(n=15) contributes 11.0 percent and German_(n=113) contributes 1.8 percent,
+for a combined Northern/Eastern European contribution of 12.8 percent. Polish is not retained.
+This result is incompatible with a model in which the principal Ashkenazi structure was created
+in the Rhineland or Eastern Europe. Those populations contribute a minority layer after the
+Italki and central Mediterranean sources have already absorbed most of the profile.
+
+5. The Italki coefficient is larger than the combined German and Russian coefficients.
+
+Italki: 40.8
+German + Russian: 12.8
+
+The Italki coefficient is more than three times the combined German and Russian total.
+This is one of the clearest findings of the experiment.
+
+6. The fit is strong.
+
+The reported distance is 0.00819655. Within this calculator framework, that is a close fit
+for a seven-source modern competition model. The low distance indicates that the retained
+combination reproduces the pooled Ashkenazi average well.
+
+7. Source competition matters.
+
+Several geographically related sources receive zero because closely correlated populations
+compete for the same dimensions. A zero does not prove the historical absence of ancestry from
+that region. It means that another source represented the same signal more efficiently in this
+particular constrained panel. The decisive feature is the structure of the retained solution:
+Italki is dominant, central Mediterranean sources form the majority, modern Levantine continuity
+is secondary, and Northern/Eastern Europe is a minority component.
+
+Interpretation
+
+Experiment 10 strongly supports an Italian Jewish and central Mediterranean foundation for
+the pooled Ashkenazi population. The largest coefficient is Italki Jewish, and the majority
+of the fitted profile is assigned to Italki, Maltese, Sicilian, and other Italian sources.
+The model also detects a meaningful Druze-like Levantine contribution and a smaller
+Northern/Eastern European layer.
+
+The result is consistent with formation in the Greco-Roman and Italian Jewish world followed
+by later admixture. It does not support a primarily Levantine population receiving only a
+generic European addition, nor does it support a population principally formed in the
+Rhineland or Eastern Europe.
+
+Methodological caution
+
+The calculator coefficients are model-dependent similarity weights, not direct historical
+ancestry percentages. Modern sources are proxies, and correlated sources can substitute for
+one another. Historical conclusions should therefore rest on convergence across Experiments
+1–10, not on one coefficient in isolation.

@@ -1,0 +1,8 @@
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/modern_strict_pass.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/modern_strict_pass.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/modern_strict_pass.ind
+outputformat: PACKEDPED
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/plink/.modern_strict_pass_20260718_072957.bed
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/plink/.modern_strict_pass_20260718_072957.bim
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/plink/.modern_strict_pass_20260718_072957.fam
+familynames: NO

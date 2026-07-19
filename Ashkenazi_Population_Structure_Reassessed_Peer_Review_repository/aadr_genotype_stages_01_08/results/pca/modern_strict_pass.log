@@ -1,0 +1,30 @@
+PLINK v1.9.0-b.8 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile data/plink/modern_strict_pass_pca_admixture
+  --out results/pca/modern_strict_pass
+  --pca 20 header tabs
+
+Hostname: Computer
+Working directory: /home/computer/popgen/projects/ashkenazi_reference_test
+Start time: Sat Jul 18 08:11:52 2026
+
+Random number seed: 1784387512
+31639 MB RAM detected; reserving 15819 MB for main workspace.
+70530 variants loaded from .bim file.
+247 people (164 males, 77 females, 6 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/pca/modern_strict_pass.nosex .
+247 phenotype values loaded from .fam.
+Warning: Ignoring phenotypes of missing-sex samples.  If you don't want those
+phenotypes to be ignored, use the --allow-no-sex flag.
+Using up to 23 threads (change this with --threads).
+Before main variant filters, 247 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.997887.
+70530 variants and 247 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 241 are controls.  (6 phenotypes
+are missing.)
+Relationship matrix calculation complete.
+--pca: Results saved to results/pca/modern_strict_pass.eigenval and
+results/pca/modern_strict_pass.eigenvec .
+
+End time: Sat Jul 18 08:11:53 2026

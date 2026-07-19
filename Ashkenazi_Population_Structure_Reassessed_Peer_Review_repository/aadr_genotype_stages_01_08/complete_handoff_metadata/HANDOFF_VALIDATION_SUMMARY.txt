@@ -1,0 +1,32 @@
+HANDOFF VALIDATION SUMMARY
+==========================
+
+Project directory exists: YES
+Project file count: 1326
+Project directory count: 218
+Project size in bytes: 5646729936
+
+Major expected locations:
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/data
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/manifests
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/results
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/results/pca
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/results/fst
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/results/admixture
+FOUND: /home/computer/popgen/projects/ashkenazi_reference_test/results/synthesis
+
+Expected genotype file types:
+.bed: 4
+.bim: 4
+.fam: 4
+.geno: 6
+.snp: 5
+.ind: 6
+
+Expected analytical outputs:
+PCA-related files: 16
+FST-related files: 55
+ADMIXTURE-related files: 560
+Figure files: 168
+Table files: 223
+Script files: 11

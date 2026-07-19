@@ -1,0 +1,7 @@
+Stage 09 formal-statistics readiness note
+
+The completed modern panels are sufficient for descriptive PCA, FST, and ADMIXTURE sensitivity analyses, but a defensible qpWave/qpAdm stage cannot be generated automatically from these 18 modern populations alone. Formal modeling requires a predeclared and justified set of distal right populations/outgroups, explicit source hypotheses, and appropriate ancient or deeply divergent references drawn from the parent AADR dataset.
+
+The next formal-statistics package should therefore be constructed only after the available AADR population labels and source files are audited. It should include: (1) a reproducible extraction of target, candidate sources, and right populations; (2) SNP-overlap and missingness checks; (3) rotating and nonrotating qpAdm designs where justified; (4) qpWave distinguishability tests; (5) model competition and nested-source testing; (6) coefficient, standard-error, p-value, and feasibility filters; and (7) primary-versus-strict sensitivity comparisons.
+
+No qpAdm result has been fabricated or inferred from ADMIXTURE components. The generated modern population inventory records the current panel and can be used when designing the formal-statistics extraction.

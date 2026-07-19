@@ -1,0 +1,28 @@
+Stage 06 FST methods
+
+Dataset framework
+
+The primary and strict Pass-only panels were analyzed on the identical shared post-QC autosomal SNP set containing 184,385 markers. The LD-pruned PCA/ADMIXTURE marker set was not used for the primary FST analysis because genome-wide FST estimation does not require LD pruning; retaining the broader shared post-QC set preserves information while keeping SNP ascertainment identical across panels.
+
+Primary estimator
+
+Pairwise Hudson FST was computed for every unordered population pair from PLINK cluster-stratified allele counts. At each biallelic SNP, the finite-sample-corrected Hudson numerator was calculated as (p1-p2)^2 - p1(1-p1)/(n1-1) - p2(1-p2)/(n2-1), and the denominator as p1(1-p2) + p2(1-p1), where p is the observed A1 allele frequency and n is the number of observed chromosomes. Genome-wide FST is the ratio of the summed numerators to the summed denominators, rather than the unweighted mean of per-SNP ratios.
+
+Uncertainty
+
+Standard errors were estimated with a delete-one-autosome jackknife across chromosomes 1-22. Approximate 95 percent confidence intervals are the point estimate plus or minus 1.96 times the chromosome-jackknife standard error.
+
+Validation estimator
+
+For every Ashkenazi-versus-comparator pair, PLINK --fst was run as a second estimator. PLINK reports Weir-Cockerham per-marker FST and global weighted and mean estimates. The weighted estimate is used for rank validation against Hudson FST.
+
+Sample-size handling
+
+No individuals were downsampled. The primary and strict panels retain their intended compositions, and sample counts are reported for every population. Hudson FST was selected as the primary pairwise estimator because its finite-sample correction is comparatively robust to unequal sample sizes. Primary-versus-strict changes are interpreted as sensitivity to panel composition, with estimator concordance checked against PLINK Weir-Cockerham estimates.
+
+Software
+
+PLINK v1.9.0-b.8 64-bit (22 Oct 2024)
+Python: 3.12.13 | packaged by Anaconda, Inc. | (main, Jul  9 2026, 14:38:16) [GCC 14.3.0]
+NumPy: 2.5.1
+Matplotlib: 3.11.0

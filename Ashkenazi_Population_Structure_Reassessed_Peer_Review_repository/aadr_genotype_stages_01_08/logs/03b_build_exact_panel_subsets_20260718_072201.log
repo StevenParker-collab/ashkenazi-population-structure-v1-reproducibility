@@ -1,0 +1,74 @@
+Stage 03B: build exact-ID primary and strict EIGENSTRAT panels
+Started: 2026-07-18T07:22:01-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+Source IND records: 27594
+Primary manifest IDs verified: 369
+Strict manifest IDs verified: 247
+Broad original populations: 16
+
+Decoding relevant original populations
+parameter file: params/03b_convertf_broad_20260718_072201.par
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/v66.p1_compatibility_HO.aadr.patch.PUB.packed.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/v66.p1_compatibility_HO.aadr.patch.PUB.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/v66.p1_compatibility_HO.aadr.patch.PUB.ind
+poplistname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad_poplist.txt
+outputformat: EIGENSTRAT
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad.ind
+familynames: NO
+## convertf version: 5000
+read 1073741824 bytes
+read 1909125775 bytes
+packed geno read OK
+end of inpack
+numvalidind:    370  maxmiss: 370001
+eigenstrat output
+##end of convertf run
+Broad extracted individuals: 370
+Broad SNPs: 276725
+Primary exact genotype columns: 369
+Strict exact genotype columns: 247
+
+Packing modern_primary
+parameter file: params/03b_convertf_primary_20260718_072201.par
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/primary_text.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/primary_text.ind
+outputformat: PACKEDANCESTRYMAP
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_primary.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_primary.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_primary.ind
+familynames: NO
+## convertf version: 5000
+numvalidind:    369  maxmiss: 369001
+packedancestrymap output
+##end of convertf run
+Verified packed header: 369 individuals, 276725 SNPs
+
+Packing modern_strict_pass
+parameter file: params/03b_convertf_strict_pass_20260718_072201.par
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/strict_text.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/broad.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/strict_text.ind
+outputformat: PACKEDANCESTRYMAP
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_strict_pass.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_strict_pass.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03b_20260718_072201_PTFHC7/modern_strict_pass.ind
+familynames: NO
+## convertf version: 5000
+numvalidind:    247  maxmiss: 247001
+packedancestrymap output
+##end of convertf run
+Verified packed header: 247 individuals, 276725 SNPs
+
+Completion summary
+------------------
+Primary individuals: 369
+Primary SNPs: 276725
+Strict individuals: 247
+Strict SNPs: 276725
+Primary populations: 18
+Strict populations: 18
+Log: logs/03b_build_exact_panel_subsets_20260718_072201.log
+Finished: 2026-07-18T07:22:38-07:00

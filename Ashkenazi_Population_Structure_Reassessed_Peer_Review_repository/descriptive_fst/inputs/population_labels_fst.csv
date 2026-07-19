@@ -1,0 +1,14 @@
+role,population_label,analysis
+target,Jew_Ashkenazi.HO,FST
+comparator,Cretan.DG,FST
+comparator,Italian_South.HO,FST
+comparator,Sicilian.HO,FST
+comparator,Greek.HO,FST
+comparator,Maltese.HO,FST
+comparator,Jew_Moroccan.HO,FST
+comparator,Jew_Iraqi.DG,FST
+comparator,Jew_Iranian.HO,FST
+comparator,Jew_Tunisian.HO,FST
+comparator,Jew_Libyan.HO,FST
+comparator,Jew_Georgian.HO,FST
+comparator,Jew_Yemenite.HO,FST

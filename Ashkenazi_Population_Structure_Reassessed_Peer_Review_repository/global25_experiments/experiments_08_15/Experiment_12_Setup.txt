@@ -1,0 +1,33 @@
+EXPERIMENT 12 — ASHKENAZI SOUTHERN ITALIAN AND CENTRAL MEDITERRANEAN SOURCES OMITTED
+
+Purpose
+
+This negative-control panel removes Italki, Southern Italian, Sicilian,
+Maltese, and Aegean averages while retaining Levantine, Northern/Central
+Italian, and Northern/Eastern European sources. It measures the fit penalty
+and proxy redistribution caused by excluding the regional source space
+central to the thesis.
+
+Calculator settings visible in the supplied screenshot
+
+CYCLES - 0.25X
+ADD DIST COL - NO
+PRINT ZEROES - NO
+FAST MODE - NO
+AGGREGATE - YES
+
+Target
+
+Ashkenazi_Jew_(n=1209)
+
+Displayed distance
+
+0.01206331
+
+Retained source values
+
+Druze_Israel_(n=42): 28.8
+Italian_Lombardy_(Lombard)_(n=10): 38.0
+Palestinian_Arab_Christian_(n=24): 21.2
+Russian_Smolensk_(n=15): 10.0
+Samaritan_(n=7): 2.0

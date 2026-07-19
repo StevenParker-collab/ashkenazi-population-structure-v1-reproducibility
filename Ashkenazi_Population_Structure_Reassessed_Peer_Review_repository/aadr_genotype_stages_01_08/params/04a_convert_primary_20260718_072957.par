@@ -1,0 +1,8 @@
+genotypename: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/modern_primary.geno
+snpname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/modern_primary.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/modern_primary.ind
+outputformat: PACKEDPED
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/plink/.modern_primary_20260718_072957.bed
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/plink/.modern_primary_20260718_072957.bim
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/plink/.modern_primary_20260718_072957.fam
+familynames: NO

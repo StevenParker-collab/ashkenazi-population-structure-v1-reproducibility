@@ -1,0 +1,28 @@
+EXPERIMENT 11 — ASHKENAZI SAME PANEL WITH ITALKI OMITTED
+
+Purpose
+
+This matched omission test removes the internal Jewish control while leaving
+Southern Italian, Sicilian, Maltese, Aegean, Levantine, Northern Italian, and
+Northern/Eastern European averages unchanged. It tests which source classes
+replace Italki and how much the fit deteriorates.
+
+Calculator settings visible in the supplied screenshot
+
+CYCLES - 0.25X
+ADD DIST COL - NO
+PRINT ZEROES - NO
+FAST MODE - NO
+AGGREGATE - YES
+
+Target
+
+Ashkenazi_Jew_(n=1209)
+
+Corrected displayed distance
+
+0.00922012
+
+Omitted source relative to Experiment 10
+
+Italki_Jew_(n=9)

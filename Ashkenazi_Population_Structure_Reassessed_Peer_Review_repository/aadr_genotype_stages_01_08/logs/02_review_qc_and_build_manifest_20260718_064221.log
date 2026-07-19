@@ -1,0 +1,60 @@
+Stage 02: assessment review and conservative manifest construction
+Started: 2026-07-18T06:42:21-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+Python: Python 3.12.13
+
+Completion summary
+------------------
+Target records reviewed: 372
+Conservatively included: 210
+Awaiting explicit review: 159
+Excluded: 3
+Clean Ashkenazi samples: 7
+Italian_North records awaiting split review: 61
+Existing Italian mappings loaded: 24
+Existing Italian mappings absent from target annotation: 0
+
+Included samples by clean group
+Cypriot	5
+Druze	39
+Greek	18
+Italian_Central	16
+Italian_South	22
+Jew_Ashkenazi	7
+Jew_Iraqi	6
+Jew_Turkish	8
+Jew_Yemenite	8
+Lebanese	8
+Lebanese_Christian	9
+Lebanese_Muslim	11
+Maltese	8
+Palestinian	34
+Sicilian	11
+
+Review records by group and assessment
+Druze	PROVISIONAL_PASS	44
+Greek	PROVISIONAL_PASS	1
+Italian_Bergamo	PROVISIONAL_PASS	14
+Italian_Bergamo_candidate	Pass	12
+Italian_North_unresolved	Pass	19
+Italian_Tuscan	PROVISIONAL_PASS	10
+Italian_Tuscan_candidate	Pass	6
+Jew_Iraqi	PROVISIONAL_PASS	2
+Jew_Yemenite	PROVISIONAL_PASS	2
+Palestinian	PROVISIONAL_PASS	49
+
+Clean Ashkenazi IDs
+AshkenaziJew5704.HO
+AshkenaziJew5728.HO
+AshkenaziJew5779.HO
+AshkenaziJew5782.HO
+AshkenaziJew5783.HO
+AshkenaziJew5788.HO
+AshkenaziJew5790.HO
+
+Review table: manifests/target_sample_review.tsv
+Conservative manifest: manifests/clean_population_manifest.tsv
+Included-ID list: manifests/clean_population_ids.txt
+
+Log: logs/02_review_qc_and_build_manifest_20260718_064221.log
+Finished: 2026-07-18T06:42:21-07:00

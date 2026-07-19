@@ -1,0 +1,15 @@
+ARCHIVE CREATION INFORMATION
+============================
+
+Created: 2026-07-18T11:44:26-07:00
+Hostname: Computer
+User: computer
+Project directory: /home/computer/popgen/projects/ashkenazi_reference_test
+Windows output directory: /mnt/c/Users/Computer/Downloads
+Archive filename: ashkenazi_reference_test_COMPLETE_stages01_08_handoff_20260718_114426.zip
+
+Kernel:
+Linux Computer 6.18.33.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun 18 21:54:43 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+WSL information:
+Linux version 6.18.33.2-microsoft-standard-WSL2 (root@f1bbfb02316b) (gcc (GCC) 13.2.0, GNU ld (GNU Binutils) 2.41) #1 SMP PREEMPT_DYNAMIC Thu Jun 18 21:54:43 UTC 2026

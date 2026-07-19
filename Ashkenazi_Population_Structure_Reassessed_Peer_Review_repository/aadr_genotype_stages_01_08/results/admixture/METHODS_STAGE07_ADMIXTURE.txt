@@ -1,0 +1,9 @@
+Stage 07 methods: ADMIXTURE reference-panel sensitivity analysis
+
+The matched primary and Strict Pass-only datasets contained the same 70,530 LD-pruned autosomal SNPs. The script verified byte-identical BIM files, sample-manifest agreement, the expected panel sizes, identical population labels, and that the strict panel was a proper subset of the primary panel before analysis.
+
+Unsupervised ADMIXTURE was run independently for K=2 through K=12. Each panel-by-K combination used 5 deterministic random-seed replicates, 10-fold cross-validation, and 8 computational threads. The executable used was /home/computer/popgen/projects/ashkenazi_reference_test/tools/admixture_linux-1.4.0/admixture. Every replicate was stored in a separate directory with its command, log, Q and P matrices, checksums, parsed CV error, log-likelihood when available, elapsed time, and completion record. Valid completed runs were resumed rather than recomputed.
+
+For each panel and K, the replicate with the lowest CV error was used as the component-label reference. Other replicates were aligned by maximizing matched-component correlations in individual-level Q profiles using an exact assignment algorithm. Aligned Q and P matrices were averaged to produce replicate-consensus estimates. Replicate stability was summarized using aligned Q root-mean-square error and matched-component correlations.
+
+Because primary and strict analyses were fitted independently, strict-panel components were aligned to primary-panel components separately for each K using the 18 population-mean Q profiles. Cross-panel sensitivity was summarized for each population using component-profile RMSE and L1 distance. Ashkenazi-focused comparator distances were calculated as Euclidean distances between population-mean consensus Q profiles. These distances are descriptive latent-profile comparisons and are not interpreted as ancient ancestry proportions.

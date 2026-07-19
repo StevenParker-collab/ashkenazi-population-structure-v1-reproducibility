@@ -1,0 +1,34 @@
+EXPERIMENT 9 — Ancient Levant Full 25-Dimension Distance Panel
+
+Summary
+
+This experiment is a full 25-dimensional Global25 distance diagnostic rather than an admixture model.
+It asks whether ancient southern Levantine populations are most closely represented by modern Levantine
+or central Mediterranean populations.
+
+Major findings
+
+1. Samaritans dominate nearly every ancient Levantine target.
+   - Peki'in, Ain Ghazal, and MBA Megiddo are modeled as 100% Samaritan.
+   - Most remaining Bronze and Iron Age populations remain majority Samaritan.
+
+2. Palestinian Arab Christians become the principal secondary contributor in many Bronze and Iron Age targets.
+   Examples:
+   - MLBA Megiddo: 68.0 Palestinian / 32.0 Samaritan
+   - LBA Megiddo: 60.8 / 39.2
+   - Jordan LBA: 55.6 / 44.4
+
+3. Central Mediterranean populations contribute essentially nothing.
+   Greek Rhodes: average 0.1%
+   Calabria: average 0.8%
+   Lebanese Christians: average 2.3%
+
+4. Only Lebanon IAIII Beirut shows small central Mediterranean affinity
+   (1.4% Rhodes, 9.8% Calabria), while remaining overwhelmingly Levantine.
+
+Interpretation
+
+This experiment validates the ancient Levant reference panel. Ancient Levantine populations
+are overwhelmingly closest to modern Levantine populations in full 25-dimensional space rather
+than to Southern Italian or Aegean populations. This provides an internal control showing the
+distance method behaves as expected for genuine Levantine populations.

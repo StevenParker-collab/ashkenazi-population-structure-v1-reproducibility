@@ -1,0 +1,368 @@
+COMPLETE HANDOFF FOR ASHKENAZI REFERENCE-PANEL PROJECT
+
+I am working on a population-genetics project located in WSL at:
+
+/home/computer/popgen/projects/ashkenazi_reference_test
+
+The complete project was archived into this Windows ZIP file:
+
+C:\Users\Computer\Desktop\ashkenazi_reference_test_COMPLETE_stages01_08_20260718_112559.zip
+
+The archive is slightly over 3 GB.
+
+The archive is intended to contain the complete Stages 01–08 project, including data, manifests, scripts, logs, quality-control records, genotype datasets, PCA results, FST results, ADMIXTURE results, synthesis results, figures, tables, and other project files.
+
+The immediate goal is to divide this large ZIP into smaller uploadable parts so ChatGPT can inspect the project piece by piece.
+
+IMPORTANT COMMUNICATION REQUIREMENTS
+
+Do not give vague instructions.
+
+Do not tell me to manually sort folders or files.
+
+Do not assume WSL is currently open.
+
+Do not assume I am using PowerShell unless the prompt begins with PS.
+
+I may be using ordinary Windows Command Prompt, where the prompt looks like:
+
+C:\Windows\System32>
+
+Commands using PowerShell variables such as $zip do not work directly in Command Prompt.
+
+Give exactly one complete command at a time.
+
+Clearly identify whether the command is intended for Windows Command Prompt, Windows PowerShell, or WSL Bash.
+
+Do not mix syntax from different shells.
+
+Do not provide an incomplete script.
+
+Do not stop halfway through a script.
+
+Do not claim that a command will work unless its syntax is valid for the shell currently in use.
+
+CURRENT SHELL SITUATION
+
+I was using ordinary Windows Command Prompt:
+
+Microsoft Windows [Version 10.0.26100.8875]
+
+C:\Windows\System32>
+
+A previous attempt failed because PowerShell code beginning with:
+
+$zip = ...
+
+was pasted directly into Command Prompt.
+
+Windows responded:
+
+'$zip' is not recognized as an internal or external command,
+operable program or batch file.
+
+A later PowerShell splitting script also did not work, and I now want a clean restart.
+
+IMMEDIATE OBJECTIVE
+
+Start by determining which shell I am using.
+
+If my prompt is:
+
+C:\Windows\System32>
+
+then give me a Windows Command Prompt command that launches PowerShell:
+
+powershell
+
+After I confirm that the prompt begins with:
+
+PS C:\Windows\System32>
+
+give me one complete PowerShell script that splits the existing 3 GB ZIP into smaller sequential binary pieces.
+
+Use this exact source path:
+
+C:\Users\Computer\Desktop\ashkenazi_reference_test_COMPLETE_stages01_08_20260718_112559.zip
+
+Use this output folder:
+
+C:\Users\Computer\Desktop\ashkenazi_upload_parts
+
+DESIRED SPLIT BEHAVIOR
+
+Use pieces of approximately 150 MB or another reliably uploadable size.
+
+Do not decompress and recompress the archive.
+
+Do not rearrange project files.
+
+Do not flatten the folder structure.
+
+Do not create separate logical ZIP files at this first step.
+
+Simply split the existing ZIP byte-for-byte into sequential pieces such as:
+
+ashkenazi_reference_test_COMPLETE.zip.part001
+ashkenazi_reference_test_COMPLETE.zip.part002
+ashkenazi_reference_test_COMPLETE.zip.part003
+
+The split parts must reconstruct the original ZIP exactly when concatenated in numerical order.
+
+The script should:
+
+Confirm that the source ZIP exists.
+Delete or recreate the output folder safely.
+Open the source ZIP as a binary file.
+Read the source in fixed-size chunks.
+Write each chunk to a sequentially numbered part file.
+Display the name and size of each completed part.
+Close all file handles safely.
+Report the total number of pieces.
+Report the original ZIP size.
+Report the total size of all created pieces.
+Verify that the combined size of the pieces equals the original ZIP size.
+Calculate a SHA-256 checksum of the original ZIP.
+Save the checksum in the output folder.
+Create a reconstruction-instructions text file in the output folder.
+Explain how to rebuild the original ZIP using PowerShell.
+Concatenate all part files in numerical order into a rebuilt ZIP.
+Remain compatible with built-in Windows PowerShell on Windows 11.
+
+Do not use Linux commands such as split, cat, sha256sum, sed, awk, zip, unzip, du, find, or bash in PowerShell instructions.
+
+Do not require WSL.
+
+Do not require third-party software unless the built-in method fails.
+
+AFTER THE SPLIT
+
+I will upload the part files in sequence.
+
+However, ChatGPT may not be able to reconstruct or analyze a multi-gigabyte ZIP directly even when the parts are uploaded.
+
+After the master ZIP is safely split and preserved, the next practical step may be to extract a separate working copy and create smaller logical review packages.
+
+Logical review packages should eventually include:
+
+Package 1:
+Project documentation, handoff metadata, README files, inventories, software-environment records, validation reports, and checksums.
+
+Package 2:
+Stages 01–04 scripts, manifests, sample-selection records, panel-construction records, quality-control outputs, audits, and SNP lists.
+
+Package 3:
+Stage 05 PCA scripts, results, tables, figures, eigenvalues, coordinates, population centroids, Ashkenazi centroid distances, and primary-versus-strict stability analyses.
+
+Package 4:
+Stage 06 FST scripts, Hudson FST outputs, Weir–Cockerham validation, chromosome jackknife outputs, confidence intervals, Ashkenazi rankings, heatmaps, methods, logs, and summaries.
+
+Package 5:
+Stage 07 ADMIXTURE summaries, cross-validation tables, replicate metrics, stability tables, consensus results, component alignments, population means, Ashkenazi component distances, figures, logs, and methods.
+
+Package 6:
+Stage 07 raw ADMIXTURE Q and P matrices, divided into multiple logical packages if necessary.
+
+Package 7:
+Stage 08 integrated synthesis, rankings, methods, manuscript-ready results, figures, tables, completion JSON files, and final summaries.
+
+Package 8:
+Raw and processed genotype metadata such as .fam, .bim, .ind, .snp, and manifests.
+
+Large binary genotype files such as .bed, .geno, .pgen, .bcf, or VCF files should only be uploaded when a specific verification or rerun requires them.
+
+SCIENTIFIC PROJECT BACKGROUND
+
+The project evaluates Ashkenazi Jewish population structure using Mediterranean and European reference populations.
+
+The central concern is that many historical Ashkenazi genetic studies omitted the most relevant central Mediterranean comparators.
+
+Important comparison populations include:
+
+Southern Italians
+Sicilians
+Maltese
+Aegean Greeks
+Italian Jews or Italkim
+Central Italians
+Tuscans
+Northern Italians
+Levantine populations
+Other European and Mediterranean populations
+
+The main research hypothesis is that Ashkenazi population structure is primarily central Mediterranean and that omission of Southern Italian, Sicilian, Maltese, Aegean, and Italkim reference populations can create an artificial appearance of Europe–Levant intermediacy.
+
+The project also tests whether Northern Italian or Tuscan proxy models distort the Italian comparison pole.
+
+PROJECT STAGE STRUCTURE
+
+Stage 01 covered source-data acquisition, conversion, normalization, and organization.
+
+Stage 02 covered sample identification, population-label harmonization, reference-panel design, and creation of primary and strict-pass manifests.
+
+Stage 03 covered sample-level and variant-level quality control, exclusions, integrity checks, and retained or rejected sample documentation.
+
+Stage 04 covered construction of matched primary and strict-pass genotype datasets, shared SNP sets, allele-order checks, and LD-pruned PCA and ADMIXTURE datasets.
+
+Stage 05 covered PCA.
+
+Stage 06 covered FST.
+
+Stage 07 covered ADMIXTURE.
+
+Stage 08 covered integrated synthesis.
+
+KNOWN PROJECT DIMENSIONS
+
+The primary panel contains approximately 369 samples.
+
+The strict-pass panel contains approximately 247 samples.
+
+The panels contain approximately 18 population groups.
+
+The shared post-QC SNP set contains approximately 184,385 SNPs.
+
+The shared LD-pruned PCA and ADMIXTURE set contains approximately 70,530 SNPs.
+
+ADMIXTURE was run for K=2 through K=12, five replicates per K, two panels, and 110 total runs.
+
+STAGE 05 PCA OUTPUTS INCLUDE
+
+Annotated PCA coordinates
+Eigenvalues
+Variance explained
+Population centroids
+Ashkenazi centroid-distance rankings using multiple PCs
+PCA figures
+Primary-versus-strict Procrustes alignment
+Sample RMSD
+Population stability measurements
+PCA summaries
+
+STAGE 06 FST OUTPUTS INCLUDE
+
+Hudson FST
+All pairwise population comparisons
+Ashkenazi-specific comparisons
+Chromosome jackknife uncertainty
+Confidence intervals
+Primary-versus-strict comparisons
+PLINK Weir–Cockerham validation
+Heatmaps
+Ranking figures
+Tables
+Methods
+Logs
+Validation reports
+
+STAGE 07 ADMIXTURE OUTPUTS INCLUDE
+
+Cross-validation results
+Likelihoods
+Replicate metrics
+Raw Q matrices
+Raw P matrices
+Run logs
+Replicate alignment
+Consensus ancestry results
+Replicate stability
+Population means
+Ashkenazi component distances
+Primary-versus-strict component alignment
+Cross-panel sensitivity analyses
+Figures
+Tables
+Methods
+
+STAGE 08 OUTPUTS INCLUDE
+
+Integrated PCA, FST, and ADMIXTURE rankings
+Cross-method agreement
+Primary-versus-strict robustness analysis
+Integrated heatmaps
+Methods
+Manuscript-ready results
+Completion metadata
+Formal-statistics readiness documentation
+Final synthesis
+
+EXISTING FILES PREVIOUSLY EXAMINED
+
+A results-only ZIP existed at:
+
+C:\Users\Computer\Downloads\ashkenazi_stages05_08_results_handoff_LATEST.zip
+
+That ZIP contained approximately 503 files and covered Stages 05–08.
+
+It was not the complete project because it did not include all Stages 01–04 data and processing records.
+
+A Stage 06 package also existed:
+
+ashkenazi_stage06_fst_package_2026-07-18.zip
+
+A smaller ChatGPT handoff ZIP existed:
+
+ashkenazi_reference_test_chatgpt_handoff_2026-07-18.zip
+
+That was documentation and scripts, not a complete data archive.
+
+The current complete archive is:
+
+C:\Users\Computer\Desktop\ashkenazi_reference_test_COMPLETE_stages01_08_20260718_112559.zip
+
+IMPORTANT CAUTION
+
+Do not confuse a results handoff ZIP with a complete reproducibility archive.
+
+The complete archive must remain untouched as the master copy.
+
+Any extraction or logical repackaging should happen from a separate working copy.
+
+Do not delete or overwrite the master ZIP.
+
+Do not claim that all Stages 01–08 material is present until the archive inventory has actually been inspected.
+
+When the contents become available, verify:
+
+Stage 01–04 directories and files exist.
+Data directories exist.
+Manifest directories exist.
+PCA outputs exist.
+FST outputs exist.
+ADMIXTURE outputs exist.
+Synthesis outputs exist.
+Scripts exist.
+Logs exist.
+Primary and strict genotype files exist.
+Shared SNP lists exist.
+LD-pruned SNP lists exist.
+QC and audit outputs exist.
+Completion metadata exists.
+
+RESPONSE FORMATTING REQUIREMENT
+
+Do not use bold, italics, underline, quotation marks for emphasis, all-caps emphasis, highlighting, or other emphasis formatting unless I explicitly request it.
+
+Keep instructions direct and readable.
+
+Do not give five different options.
+
+Give the safest next command for the shell I am actually using.
+
+CURRENT NEXT STEP
+
+Ask me to paste my current command prompt exactly.
+
+If it begins with:
+
+C:\Windows\System32>
+
+tell me to type:
+
+powershell
+
+Then wait for confirmation that the prompt begins with:
+
+PS
+
+Only after that should you give the complete PowerShell split script.

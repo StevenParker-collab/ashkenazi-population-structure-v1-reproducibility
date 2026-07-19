@@ -1,0 +1,5 @@
+Stage 08 methods: cross-method reference-panel sensitivity synthesis
+
+Ashkenazi comparator ranks were integrated across PCA centroid distance, genome-wide Hudson FST, and ADMIXTURE population-mean Q-profile distance. Primary and Strict Pass-only analyses were treated separately before cross-panel integration. For ADMIXTURE, the three K values with the lowest mean cross-validation error in each panel were used, and each comparator's median rank across those supported K values was calculated. This prevents the synthesis from depending on a single arbitrary K.
+
+Ranks were converted to normalized positions from zero (nearest) to one (farthest) within the shared comparator set. For each comparator, the mean normalized rank was calculated within each panel and across all six method-panel combinations. The standard deviation across the six normalized ranks was retained as a robustness measure, while the primary-minus-strict change quantified panel sensitivity. The integrated ranking is descriptive and gives equal weight to PCA, FST, and ADMIXTURE. It is not an ancestry-proportion estimator and does not replace formal f-statistic or qpAdm tests.

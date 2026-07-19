@@ -1,0 +1,11 @@
+/home/computer/popgen/projects/ashkenazi_reference_test/02_finalize_clean_manifest.sh	8760 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/02_review_qc_and_build_manifest.sh	9047 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/03_subset_eigenstrat_panel.sh	11913 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/03a_transpose_aadr_genotype.sh	3702 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/03b_build_exact_panel_subsets.sh	12313 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/03c_audit_panel_integrity.py	5612 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/04a_convert_panels_to_plink.sh	3677 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/05_analyze_pca.py	18456 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/06_run_fst.py	69012 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/backups/02_review_qc_and_build_manifest_before_header_fix_20260718_064221.sh	9121 bytes
+/home/computer/popgen/projects/ashkenazi_reference_test/backups/03a_transpose_aadr_genotype_before_header_fix_20260718_070853.sh	3403 bytes

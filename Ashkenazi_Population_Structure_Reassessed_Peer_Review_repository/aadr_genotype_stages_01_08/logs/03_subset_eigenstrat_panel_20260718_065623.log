@@ -1,0 +1,24 @@
+Stage 03: construct exact-ID EIGENSTRAT subsets
+Started: 2026-07-18T06:56:23-07:00
+Directory: /home/computer/popgen/projects/ashkenazi_reference_test
+convertf: /home/computer/miniconda3/envs/popgen/bin/convertf
+Source IND records: 27594
+Primary manifest IDs verified: 369
+Strict manifest IDs verified as primary subset: 247
+Primary clean populations: 18
+
+Creating primary subset
+parameter file: params/03_convertf_primary.par
+genotypename: v66.p1_compatibility_HO.aadr.patch.PUB.geno
+snpname: v66.p1_compatibility_HO.aadr.patch.PUB.snp
+indivname: /home/computer/popgen/projects/ashkenazi_reference_test/manifests/modern_primary_relabel_full.ind
+poplistname: /home/computer/popgen/projects/ashkenazi_reference_test/manifests/modern_primary_poplist.txt
+outputformat: PACKEDANCESTRYMAP
+genotypeoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03_20260718_065623_j1cOZI/modern_primary.geno
+snpoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03_20260718_065623_j1cOZI/modern_primary.snp
+indivoutname: /home/computer/popgen/projects/ashkenazi_reference_test/data/eigenstrat/.stage03_20260718_065623_j1cOZI/modern_primary.ind
+familynames: NO
+## convertf version: 5000
+fatalx:
+(genotypes) bad ID (SNP): TGENO   27594  276725 8c17d6d1 e42ba255
+03_subset_eigenstrat_panel.sh: line 158: 13801 Aborted                 (core dumped) convertf -p params/03_convertf_primary.par

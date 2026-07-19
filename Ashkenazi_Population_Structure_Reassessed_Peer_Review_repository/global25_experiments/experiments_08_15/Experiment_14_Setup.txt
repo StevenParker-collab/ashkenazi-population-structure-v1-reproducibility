@@ -1,0 +1,34 @@
+EXPERIMENT 14 — REGIONAL ASHKENAZI FULL MODERN PANEL WITH LEVANT CONTROLS
+
+Purpose
+
+The identical full modern panel from Experiment 10 is applied to ten named
+regional Ashkenazi population averages. No individual is used. The series
+tests whether the pooled result is stable across western and eastern
+Ashkenazi averages and whether later European displacement changes the older
+Italki and central Mediterranean signal.
+
+Calculator settings visible in the supplied screenshot
+
+FAST MODE - NO
+AGGREGATE - YES
+
+The accompanying source and target CSV files preserve the complete Global25
+coordinate lines supplied for this experiment.
+
+Targets
+
+Ashkenazi_Jew_Austria_(n=2)
+Ashkenazi_Jew_Belarus_(n=15)
+Ashkenazi_Jew_France_(n=8)
+Ashkenazi_Jew_Germany_(n=10)
+Ashkenazi_Jew_Latvia_(n=2)
+Ashkenazi_Jew_Lithuania_(n=11)
+Ashkenazi_Jew_Poland_(n=35)
+Ashkenazi_Jew_Romania_(n=2)
+Ashkenazi_Jew_Russia_(n=10)
+Ashkenazi_Jew_Ukraine_(n=24)
+
+Displayed unweighted regional average distance
+
+0.01041373
