@@ -25,6 +25,12 @@ Use this URL for the original Version 1 repository, not shortened or truncated l
 
 https://github.com/StevenParker-collab/ashkenazi-population-structure-v1-reproducibility/tree/main/Ashkenazi_Population_Structure_Reassessed_V1_repository
 
+## Peer-review reproducibility branch URL
+
+The peer-review manuscript and full reviewer audit package are stored on this branch:
+
+https://github.com/StevenParker-collab/ashkenazi-population-structure-v1-reproducibility/tree/peer-review-central-mediterranean-reproducibility/Ashkenazi_Population_Structure_Reassessed_Peer_Review_repository
+
 ## Main folders
 
 - `manuscript/` - final peer-review manuscript PDF.
