@@ -33,7 +33,7 @@ https://github.com/StevenParker-collab/ashkenazi-population-structure-v1-reprodu
 
 ## Main folders
 
-- `manuscript/` - final peer-review manuscript PDF.
+- `manuscript/` - final peer-review manuscript PDF and manuscript-specific generated figure assets.
 - `source_preprints/` - source PDFs used to build the peer-review synthesis.
 - `global25_experiments/` - Global25 Experiments 1-15, including source/target rows, raw outputs, grouped summaries, screenshots, scripts, and checksums.
 - `aadr_genotype_stages_01_08/` - AADR-derived genotype workflow materials: scripts, manifests, QC records, PCA, FST, ADMIXTURE, synthesis tables, figures, logs, and formal-stats readiness notes.
